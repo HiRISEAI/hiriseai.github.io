@@ -1,0 +1,19 @@
+.container{max-width: 1000px;}
+body{background: #fff; color:#000; font-family: sans-serif;font-size: 16px;}
+.bg-light{border-bottom: 1px solid #eee; background-color:#fff !important;}
+.text-muted {font-size: 13px;}
+
+.navbar-light .navbar-brand{color: #0d6efd; font-size: 18px; font-weight: 700;}
+
+.card-body{ padding:1rem 0;}
+.card{border: none;}
+.card-img-top{box-shadow: 0 9px 18px rgba(0,0,0,0.25);}
+.card-img-top{border-top-left-radius: 0; border-top-right-radius:0;}
+
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+.post-date{font-size: 13px; color:#999; }
+.card-title{font-size: 16px; color:#000; padding-top: 12px;}
+.article-tag{font-size: 13px; color:#777;}
+.tag{font-size: 13px; color:#000; text-decoration: underline; }
+.tags{font-size: 13px; color:#444; padding:6px; border:1px solid #aeaeae; margin-right:6px;}

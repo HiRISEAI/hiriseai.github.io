@@ -1,0 +1,21 @@
+<footer class="footer mt-auto py-3 bg-dark h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="container py-3">
+    <div class="row">
+      <div class="col">
+        
+          <span style="color:white;">&copy; 2022 <a href="/" class="black">Nova77 STEM Workshop</a></span>
+          
+        
+      </div>
+      
+    </div>
+    {%- if site.bootstrap.social_links -%}
+    <div class="row py-3">
+      <div class="col">
+        {%- include social.html -%}
+      </div>
+    </div>
+    {%- endif -%}
+  </div>
+</footer>
