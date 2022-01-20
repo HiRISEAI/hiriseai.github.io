@@ -1,2 +1,2 @@
 # hiriseai.github.io. 
-https://hirise.github.io
+https://hiriseai.github.io

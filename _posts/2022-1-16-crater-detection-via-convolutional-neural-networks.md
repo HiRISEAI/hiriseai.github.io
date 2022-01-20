@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Crater Detection iva Convolutional Neural Networks
+title:  Crater Detection via Convolutional Neural Networks
 date: 2022-1-16
 image: assets/images/wei.png
 tags: [ AI, craters ]
