@@ -27,7 +27,7 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 - Darren Johnson
 
 **Our Website**:  
-Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the HiRISE website and split every one of them into a 512px by 512 px squares. All the image file names are kept the same as on the HiRISE website.
+Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the [HiRISE website](https://www.uahirise.org/){:target="_blank"} and split every one of them into a 512px by 512 px squares. All the image file names are kept the same as on the HiRISE website.
 
 
 
