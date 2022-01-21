@@ -3,7 +3,7 @@ layout: post
 title:  Petrology and Origin of the Shergottite Meteorites
 date: 2022-1-21
 image: assets/images/Microscopic-images-of-martian-meteorites.png
-tags: [ craters ]
+tags: [ meteorites ]
 ---
 
 *Published at Geochimica et Cosmochimica Acta Volume 43, Issue 9, September 1979, Pages 1475-1477, 1479-1483, 1485-1498*
