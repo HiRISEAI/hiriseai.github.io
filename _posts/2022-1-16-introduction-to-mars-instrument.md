@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction to Mars Instrument
+title:  Introduction to Mars Instruments
 date: 2022-1-16
 image: assets/images/hirise-top.jpg
 tags: [ more ]
