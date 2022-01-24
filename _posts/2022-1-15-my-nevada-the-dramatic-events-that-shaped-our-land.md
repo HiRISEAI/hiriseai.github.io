@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Nevada: the Dramatic Events that Shaped Our Land"
-date: 2022-1-16
+date: 2022-1-15
 image: assets/images/hoover.jpg
 tags: [ more ]
 ---
