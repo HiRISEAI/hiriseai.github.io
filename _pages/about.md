@@ -16,15 +16,6 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 - Dr. Eugene Smith 
 - Erich Liang
 - Dr. Chris DeFelice
-- Dr. Michael Nicholl
-- Dr. Ganqing Jiang
-- Dr. Gabriele Morra
-- Dr. Shichun Huang
-- Shalee Okelberry
-- Elizabeth Sheriff
-- Rachel Rahib
-- Shana Harrington
-- Darren Johnson
 
 **Our Website**:  
 Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the [HiRISE website](https://www.uahirise.org/){:target="_blank"} and split every one of them into a 512px by 512 px squares. All the image file names are kept the same as on the HiRISE website.
