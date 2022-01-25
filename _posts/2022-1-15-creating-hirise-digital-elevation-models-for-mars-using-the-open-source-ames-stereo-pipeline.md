@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planet Four: Probing springtime winds on Mars by mapping the southern polar CO2 jet deposits"
+title: "Creating HiRISE Digital Elevation Models for Mars Using the Open-source Ames Stereo Pipeline"
 date: 2022-1-15
 image: assets/images/dune_dem.png
 tags: [ more ]
