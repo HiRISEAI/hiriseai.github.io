@@ -16,7 +16,6 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 - Dr. Eugene Smith 
 - Erich Liang
 - Dr. Chris DeFelice
-- Dr. Atlas Wang
 - Dr. Michael Nicholl
 - Dr. Ganqing Jiang
 - Dr. Gabriele Morra
