@@ -3,7 +3,7 @@ layout: post
 title:  Introduction to Mars Instruments
 date: 2022-1-16
 image: assets/images/hirise-top.jpg
-tags: [ features ]
+tags: [ landforms ]
 ---
 
 Johnathon Hill talks about the Mars instruments.

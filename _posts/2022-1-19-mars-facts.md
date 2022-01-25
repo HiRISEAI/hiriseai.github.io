@@ -3,7 +3,7 @@ layout: post
 title:  Mars Facts
 date: 2022-1-19
 image: assets/images/96670main_br_earth-mars-front.jpg
-tags: [ features ]
+tags: [ landforms ]
 ---
 
 - **Equator circumference**: 21,297km

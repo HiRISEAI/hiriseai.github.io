@@ -3,7 +3,7 @@ layout: post
 title: "Planet Four: Probing springtime winds on Mars by mapping the southern polar CO2 jet deposits"
 date: 2022-1-15
 image: assets/images/planet_four.png
-tags: [ features ]
+tags: [ landforms ]
 ---
 
 [Planet Four: Probing Springtime Winds on Mars by Mapping the Southern Polar CO<sub>2</sub> Jet Deposits](https://arxiv.org/pdf/1803.10341.pdf){:target="_blank"}  

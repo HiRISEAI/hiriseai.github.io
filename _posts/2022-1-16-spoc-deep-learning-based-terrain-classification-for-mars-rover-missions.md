@@ -3,7 +3,7 @@ layout: post
 title: "SPOC: Deep Learning-based Terrain Classification for Mars Rover Missions"
 date: 2022-1-16
 image: assets/images/spoc.png
-tags: [ AI, features, craters ]
+tags: [ AI, landforms, craters ]
 ---
 
 **Published in**:   
