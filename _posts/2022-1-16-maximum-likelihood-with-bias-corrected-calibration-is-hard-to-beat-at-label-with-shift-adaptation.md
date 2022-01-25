@@ -3,7 +3,7 @@ layout: post
 title: "Maximum likelihood with Bias-corrected Calibration is Hard-to-beat at Label Shift Adaptation"
 date: 2022-1-16
 image: assets/images/ESP_025124_1985_000012.jpg
-tags: [ AI ]
+tags: [ AI, more ]
 ---
 
 [Maximum Likelihood with Bias-Corrected Calibration is Hard-To-Beat at Label Shift Adaptation](https://arxiv.org/abs/1901.06852){:target="_blank"}  

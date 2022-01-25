@@ -3,7 +3,7 @@ layout: post
 title:  Automated Detection of Martian Dune Fields
 date: 2022-1-16
 image: assets/images/ESP_012202_1390.jpg
-tags: [ AI, craters ]
+tags: [ AI, features ]
 ---
 
 **Published in**:   

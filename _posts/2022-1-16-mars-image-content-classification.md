@@ -3,7 +3,7 @@ layout: post
 title:  Mars Image Content Classification
 date: 2022-1-16
 image: assets/images/wagstaff2021.png
-tags: [ AI, craters ]
+tags: [ AI, features, craters ]
 ---
 
 [Mars Image Content Classification: Three Years of NASA Deployment and Recent Advances](https://arxiv.org/abs/2102.05011){:target="_blank"}
