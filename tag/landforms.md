@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: landforms"
+title: "Tag: Landforms"
 tag: landforms
 ---

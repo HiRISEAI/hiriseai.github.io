@@ -3,7 +3,7 @@ layout: post
 title:  "Derivation and Validation of High-Resolution Digital Terrain Models from Mars Express HRSC Data"
 date: 2022-1-20
 image: assets/images/hrsc.png
-tags: [ landforms, DTM ]
+tags: [ landforms, DTMs ]
 ---
 
 [Derivation and Validation of High-Resolution Digital Terrain Models from Mars Express HRSC Data](https://www.ingentaconnect.com/content/asprs/pers/2009/00000075/00000009/art00007?crawler=true){:target="_blank"}  
