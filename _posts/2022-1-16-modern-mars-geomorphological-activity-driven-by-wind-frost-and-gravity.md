@@ -3,7 +3,7 @@ layout: post
 title:  "Modern Mars' Geomorphological Activity, Driven by Wind, Frost, and Gravity"
 date: 2022-1-16
 image: assets/images/ESP_012555_1325.jpg
-tags: [ landforms ]
+tags: [ imagery ]
 ---
 
 **Published in**:  

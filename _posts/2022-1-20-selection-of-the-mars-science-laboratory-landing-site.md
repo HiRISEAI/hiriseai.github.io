@@ -3,7 +3,7 @@ layout: post
 title:  "Selection of the Mars Science Laboratory Landing Site"
 date: 2022-1-20
 image: assets/images/ESP_011288_1675_000002.jpg
-tags: [ landforms ]
+tags: [ imagery ]
 ---
 
 **Published in**:   

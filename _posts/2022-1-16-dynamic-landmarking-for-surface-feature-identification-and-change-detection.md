@@ -3,7 +3,7 @@ layout: post
 title:  Dynamic Landmarking for Surface Feature Identification and Change Detection
 date: 2022-1-16
 image: assets/images/ESP_011393_1525_000003.jpg
-tags: [ AI, landforms, craters ]
+tags: [ AI, imagery, craters ]
 ---
 
 **Published in**:   

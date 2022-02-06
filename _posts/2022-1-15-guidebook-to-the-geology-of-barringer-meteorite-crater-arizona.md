@@ -3,7 +3,7 @@ layout: post
 title:  "Guidebook to the Geology of Barringer Meteorite Crater, Arizona (a.k.a Meteo Crater)"
 date: 2022-1-15
 image: assets/images/meteo_crater.png
-tags: [ more ]
+tags: [ meteorites ]
 ---
 
 [Guidebook to the Geology of Barringer Meteorite Crater, Arizona](https://www.lpi.usra.edu/publications/books/barringer_crater_guidebook/){:target="_blank"}  

@@ -3,7 +3,7 @@ layout: post
 title:  "The Global Topography of Mars and Implications for Surface Evolution"
 date: 2022-1-20
 image: assets/images/zuber.png
-tags: [ landforms ]
+tags: [ imagery ]
 ---
 
 [The Global Topography of Mars and Implications for Surface Evolution](https://mars.nasa.gov/mgs/sci/mola/dec10-99rel/mola_global.pdf){:target="_blank"} 
