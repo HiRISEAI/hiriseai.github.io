@@ -14,6 +14,7 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 **Our Team**:  
 - Ping Wang (Principal Investigator)
 - Dr. Eugene Smith 
+- Dr. Racheal Johnsen
 - Erich Liang
 - Dr. Chris DeFelice
 
