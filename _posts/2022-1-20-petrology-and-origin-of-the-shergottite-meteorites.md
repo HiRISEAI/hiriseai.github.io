@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Petrology and Origin of the Shergottite Meteorites
-date: 2022-1-21
+date: 2022-1-20
 image: assets/images/Microscopic-images-of-martian-meteorites.png
 tags: [ meteorites ]
 ---
