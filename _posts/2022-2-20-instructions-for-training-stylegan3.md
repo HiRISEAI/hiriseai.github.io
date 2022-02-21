@@ -9,7 +9,6 @@ tags: [ AI, tutorials ]
 **Prerequisites**:
 - Access to a command-line prompt on the cluster that has the GPU
 - Command-line navigation (useful tips- <a href="https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands" target="_blank">https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands</a>)  
-  [https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands](https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands)
 - Access to Github repo: [https://github.com/doinksta/stylegan3](https://github.com/doinksta/stylegan3){:target="_blank"}
 - Access to data (currently on Google Drive: [https://drive.google.com/drive/folders/13c83PksoW83rGS85W9KpAKw8SSuqid_Z?usp=sharing](https://drive.google.com/drive/folders/13c83PksoW83rGS85W9KpAKw8SSuqid_Z?usp=sharing){:target="_blank"} )
 
