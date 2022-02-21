@@ -36,6 +36,7 @@ tags: [ AI, tutorials ]
 
 4. We will now use anaconda to install necessary software requirements. To do this, run the following command:  
    <code>conda env create -f environment.yml</code>  
+
    This makes the compute follow the instructions in “environment.yml” to download necessary code packages (for free) and puts them into a custom coding environment.
 
     <div><img src="/assets/images/Picture3.png" class="img-fluid" alt="Picture3" /></div><br>
@@ -60,7 +61,7 @@ tags: [ AI, tutorials ]
 
     <code>python train.py --outdir=training_runs --data=full_data.zip --cfg=stylegan3-r --gpus=8 --batch=32 --gamma=8 --metrics=none</code>  
 
-    Using the estimates from https://github.com/doinksta/stylegan3/blob/main/docs/configs.md, the small test dataset might take around 4 seconds to train, and the full dataset might take around 0.63 hours.
+    Using the estimates from [https://github.com/doinksta/stylegan3/blob/main/docs/configs.md](https://github.com/doinksta/stylegan3/blob/main/docs/configs.md){:target="_blank"}, the small test dataset might take around 4 seconds to train, and the full dataset might take around 0.63 hours.
 
 
 
