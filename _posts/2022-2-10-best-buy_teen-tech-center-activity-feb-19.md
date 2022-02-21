@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Best Buy Teen Tech Center for HiRISE on Feb 19th
-date: 2022-1-20
+date: 2022-2-10
 image: assets/images/best_buy_teen_event.png
 tags: [ events, tutorials ]
 ---
