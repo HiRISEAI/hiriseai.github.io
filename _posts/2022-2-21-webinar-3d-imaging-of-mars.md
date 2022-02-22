@@ -9,7 +9,7 @@ tags: [ Imagery, Webinars ]
 **Nova77 Webinar Series 2022**
 
 **Title**: 3D Imaging of Mars  
-**Time**: Fri, March 4, 12-1pm PT  
+**Time**: Fri, March 4, 12-1pm PST  
 **Speaker**: Dr. Yu Tao
 
 
