@@ -57,6 +57,12 @@ This HiRISEAI Project Team gratefully acknoledges the following coorporations an
   <p></p>
   </div>
   <div class="col-md-4" markdown="1">
+   <img src="/assets/images/slack.png" class="img-fluid" alt="slack" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
+  <div class="col-md-4" markdown="1">
    <img src="/assets/images/lvccld.png" class="img-fluid" alt="LVCCLD" />
   </div>
   <div class="col-md-8" markdown="1">
