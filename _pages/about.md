@@ -73,11 +73,28 @@ This HiRISEAI Project Team gratefully acknoledges the following coorporations an
 
 We are also grateful for the following individuals, universities and other institutions who have been collaborating with us and supporting us:
 
+<div class="row">
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/si.png" class="img-fluid" alt="SI" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>  
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/hughes.png" class="img-fluid" alt="College of Engineering UNLV" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/geoscience.png" style="background: black;" class="img-fluid" alt="Department of Geoscience UNLV" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
+</div>
+
 - [Dr. Chris Heavey, Executive Vice President and Provost, UNLV](https://www.unlv.edu/people/chris-heavey){:target='_blank'}  
-
-- [The Department of Geoscience, UNLV](https://geoscience.unlv.edu/){:target="_blank"}  
-
-- [Howard R. Hughes Colelge of Engineering, UNLV](https://www.unlv.edu/engineering){:target="_blank"}  
 
 - [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
 
