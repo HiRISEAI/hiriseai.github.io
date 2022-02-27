@@ -24,6 +24,46 @@ Many images we are using on this website are HiRISE images of Martian landscapes
 
 This website is written in Markdown in order to honor a noted contributor to Markdown, Aaron Swartz, who was alson one of the early architects of Creative Commons and a developer of the Internet Archives' Open Library.
 
+**Our Supporters**:  
+
+*As of February 2022*  
+
+This HiRISEAI Project Team gratefully acknoledges the following coorporations and government agencies for their grants and gifts which support exhibits and programs that inspire innovators locally and globally:
+
+<div class="row">
+  <div class="col-md-2" markdown="1">
+   <img src="/assets/images/nasa.png" class="img-fluid" alt="NASA" />
+  </div>
+  <div class="col-md-10" markdown="1">
+  <p>National Aeronautics and Space Administration</p>
+  </div>
+  <div class="col-md-2" markdown="1">
+   <img src="/assets/images/aws.png" class="img-fluid" alt="AWS" />
+  </div>
+  <div class="col-md-10" markdown="1">
+  <p>AWS</p>
+  </div>
+  <div class="col-md-2" markdown="1">
+   <img src="/assets/images/azure.png" class="img-fluid" alt="Azure" />
+  </div>
+  <div class="col-md-10" markdown="1">
+  <p>Microsoft Azure</p>
+  </div>
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/google.png" class="img-fluid" alt="Google" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
+</div>
+
+
+We are also grateful for the following individuals, universities and other institutions who have been collaborating with us and supporting us:
+
+- [The Department of Geoscience, University of Nevada, Las Vegas](https://geoscience.unlv.edu/){:target="_blank"}  
+
+- [Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
+
 
 
 
