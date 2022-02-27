@@ -15,6 +15,7 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 - Ping Wang (Principal Investigator)
 - Dr. Eugene Smith 
 - Dr. Racheal Johnsen
+- Shalee Okelberry
 - Erich Liang
 - Dr. Chris DeFelice
 
@@ -55,14 +56,35 @@ This HiRISEAI Project Team gratefully acknoledges the following coorporations an
   <div class="col-md-8" markdown="1">
   <p></p>
   </div>
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/lvccld.png" class="img-fluid" alt="LVCCLD" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
 </div>
 
 
 We are also grateful for the following individuals, universities and other institutions who have been collaborating with us and supporting us:
 
-- [The Department of Geoscience, University of Nevada, Las Vegas](https://geoscience.unlv.edu/){:target="_blank"}  
+- [Dr. Chris Heavey, Executive Vice President and Provost, UNLV](https://www.unlv.edu/people/chris-heavey){:target='_blank'}  
 
-- [Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
+- [The Department of Geoscience, UNLV](https://geoscience.unlv.edu/){:target="_blank"}  
+
+- [Howard R. Hughes Colelge of Engineering, UNLV](https://www.unlv.edu/engineering){:target="_blank"}  
+
+- [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
+
+- Shana L. Harrington, Youth Services Manager, Library District Administrative Offices, LVCCLD
+
+- Darren Johnson, Gallery Services Manager, Libary District Administrative Offices, LVCCLD
+
+- Belinda Aspinall, Gallery Services Assistant, Library District Administrative Offices, LVCCLD
+
+- Chantalle L. Uzan, Maker Specialist, Best Buy Teen Computer Lab, clark County Libary
+
+- Megan Nykodym, Librarian at Clark County School District
+
 
 
 
