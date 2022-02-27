@@ -23,7 +23,7 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 
 Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the [HiRISE website](https://www.uahirise.org/){:target="_blank"} and split every one of them into a 512x512 px squares. All the image file names are kept the same as on the HiRISE website.  
 
-This website is written in Markdown in order to honor a noted contributor to Markdown, Aaron Swartz, who was alson one of the early architects of Creative Commons and a developer of the Internet Archives' Open Library.
+This website is written in Markdown in order to honor a noted contributor to Markdown, Aaron Swartz, who was also one of the early architects of Creative Commons and a developer of the Internet Archives' Open Library.
 
 **Our Supporters**:  
 
