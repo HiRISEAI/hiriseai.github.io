@@ -71,7 +71,7 @@ This HiRISEAI Project Team gratefully acknoledges the following coorporations an
 </div>
 
 
-We are also grateful for the following individuals, universities and other institutions who have been collaborating with us and supporting us:
+We are also grateful for the following individuals, universities and other institutions who have been supporting us:
 
 <div class="row">
   <div class="col-md-4" markdown="1">
@@ -106,7 +106,14 @@ We are also grateful for the following individuals, universities and other insti
 - [Dr. Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
 - [Dr. Wei Ding, Professor of Computer Science, University of Massachusets Boston](https://www.cs.umb.edu/~ding/){:target="_blank"}
 - [Anthony Love, Dept. of Geological and Environmental Sciences](https://earth.appstate.edu/faculty-staff/anthony-love){:target="_blank"}
-- [Dr. Ivan Lengyel](https://ivanlen.github.io/){:target="_blank"}
+- Dr. Ivan Lengyel
+- Snehitha Kamasani, Support Engineer, Azure Subscription Management Support
+- Bayard Mason, Associate Solutions Architect, Amazon Web Services
+- Alli Gallo, Account Executive, Amazon Web Services
+- Dylan Harrell, Account Executive, Amazon Web Services
+
+
+
 
 
 
