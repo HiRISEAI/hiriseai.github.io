@@ -95,17 +95,11 @@ We are also grateful for the following individuals, universities and other insti
 </div>
 
 - [Dr. Chris Heavey, Executive Vice President and Provost, UNLV](https://www.unlv.edu/people/chris-heavey){:target='_blank'}  
-
 - [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
-
 - Shana L. Harrington, Youth Services Manager, Library District Administrative Offices, LVCCLD
-
 - Darren Johnson, Gallery Services Manager, Libary District Administrative Offices, LVCCLD
-
 - Belinda Aspinall, Gallery Services Assistant, Library District Administrative Offices, LVCCLD
-
 - Chantalle L. Uzan, Maker Specialist, Best Buy Teen Computer Lab, clark County Libary
-
 - Megan Nykodym, Librarian at Clark County School District
 
 
