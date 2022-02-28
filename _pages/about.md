@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/images/ESP_071952_1670.jpg" class="img-fluid" alt=" " />
 </div></p>
 
-HiRISEAI is a NASA-funded project centered on the question: "Where would a good Mars landing location be situated for exploration and to return rocks to Earth?", which aims to engage youth and their families, and the general public in exploring Planetary Science Imaging by leveraging the fantastic HiRISE images of Martian landscapes.  
+HiRISEAI is a NASA-funded project centered on the question: "Where would a good Mars landing location be situated for exploration and to return rocks to Earth?", which aims to engage youth and their families, and the general public in exploring Planetary Science Imaging by leveraging the fantastic HiRISE images of Martian landscapes and other data from Mars explorations.  
 
 **Our Team**:  
 - Ping Wang (Principal Investigator)
@@ -22,7 +22,7 @@ We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental 
 
 **Our Website**:  
 
-Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the [HiRISE website](https://www.uahirise.org/){:target="_blank"} and split every one of them into a 512x512 px squares. All the image file names are kept the same as on the HiRISE website.  
+Many images we are using on this website are HiRISE images of Martian landscapes. We download the jpg images from the [HiRISE website](https://www.uahirise.org/){:target="_blank"} and split every one of them into 512x512 px squares. All the image file names are kept the same as on the HiRISE website.  
 
 This website is written in Markdown in order to honor a noted contributor to Markdown, Aaron Swartz, who was also one of the early architects of Creative Commons and a developer of the Internet Archives' Open Library.
 
@@ -30,7 +30,7 @@ This website is written in Markdown in order to honor a noted contributor to Mar
 
 *As of February 2022*  
 
-This HiRISEAI Project Team gratefully acknoledges the following coorporations and government agencies for their grants and gifts which support exhibits and programs that inspire innovators locally and globally:
+This HiRISEAI Project Team gratefully acknowledges the following coorporations and government agencies for their grants and gifts which support exhibits and programs that inspire innovators locally and globally:
 
 <div class="row">
   <div class="col-md-2" markdown="1">
