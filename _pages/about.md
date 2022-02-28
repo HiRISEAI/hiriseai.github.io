@@ -7,11 +7,11 @@ permalink: /about/
 <img src="/assets/images/ESP_071952_1670.jpg" class="img-fluid" alt=" " />
 </div></p>
 
-HiRISEAI is centered on the question: "Where would a good Mars landing location be situated for exploration and to return rocks to Earth?" 
+HiRISEAI is a NASA-funded project centered on the question: "Where would a good Mars landing location be situated for exploration and to return rocks to Earth?", which aims to engage youth and their families, and the general public in exploring Planetary Science Imaging by leveraging the fantastic HiRISE images of Martian landscapes.  
 
 **Our Team**:  
 - Ping Wang (Principal Investigator)
-- Dr. Eugene Smith 
+- Dr. Eugene Smith
 - Dr. Racheal Johnsen
 - Shalee Okelberry
 - Erich Liang
