@@ -16,6 +16,7 @@ HiRISEAI is centered on the question: "Where would a good Mars landing location 
 - Shalee Okelberry
 - Erich Liang
 - Dr. Chris DeFelice
+- Dr. Helen Zhang
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
