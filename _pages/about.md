@@ -7,7 +7,8 @@ permalink: /about/
 <img src="/assets/images/ESP_071952_1670.jpg" class="img-fluid" alt=" " />
 </div></p>
 
-HiRISEAI is a NASA-funded project centered on the question: "Where would a good Mars landing location be situated for exploration and to return rocks to Earth?", which aims to engage youth and their families, and the general public in exploring Planetary Science Imaging by leveraging the fantastic HiRISE images of Martian landscapes and other data from Mars explorations.  
+HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, research, and public service. The goal of the project is to inspire innovators locally and globally.
+ 
 
 **Our Team**:  
 - Ping Wang (Principal Investigator)
