@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/images/ESP_071952_1670.jpg" class="img-fluid" alt=" " />
 </div></p>
 
-HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, research, and public service. The goal of the project is to inspire innovators locally and globally.
+HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, and research. The goal of the project is to inspire innovators locally and globally.
  
 
 **Our Team**:  
@@ -102,7 +102,7 @@ We are also grateful for the following individuals, universities and other insti
 - Darren Johnson, Gallery Services Manager, Libary District Administrative Offices, LVCCLD
 - Belinda Aspinall, Gallery Services Assistant, Library District Administrative Offices, LVCCLD
 - Chantalle L. Uzan, Maker Specialist, Best Buy Teen Tech Center, clark County Libary
-- Megan Nykodym, Teen Serives Department Head, Clark County Library
+- Megan Nykodym, Teen Services Department Head, Clark County Library
 - [Dr. Shane Byrne, Professor, Lunar & Planetary Laboratory, University of Arizona](https://www.lpl.arizona.edu/faculty/byrne){:target="_blank"}
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
 - [Dr. Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
