@@ -113,6 +113,7 @@ We are also grateful for the following individuals, universities and other insti
 - Bayard Mason, Associate Solutions Architect, Amazon Web Services
 - Alli Gallo, Account Executive, Amazon Web Services
 - Dylan Harrell, Account Executive, Amazon Web Services
+- Loren Harper, Geoscience Department, UNLV
 
 
 
