@@ -103,9 +103,11 @@ We are also grateful for the following individuals, universities and other insti
 - Belinda Aspinall, Gallery Services Assistant, Library District Administrative Offices, LVCCLD
 - Chantalle L. Uzan, Maker Specialist, Best Buy Teen Tech Center, clark County Libary
 - Megan Nykodym, Teen Services Department Head, Clark County Library
+- Julie Okabayashi, Scheduling Specialist, Clark County Library
 - [Dr. Shane Byrne, Professor, Lunar & Planetary Laboratory, University of Arizona](https://www.lpl.arizona.edu/faculty/byrne){:target="_blank"}
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
 - [Dr. Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
+- [Dr. Susan Conway, CNRS Research Scientist](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=643&lang=en){:target="_blank"}  
 - [Dr. Wei Ding, Professor of Computer Science, University of Massachusets Boston](https://www.cs.umb.edu/~ding/){:target="_blank"}
 - [Anthony Love, Dept. of Geological and Environmental Sciences](https://earth.appstate.edu/faculty-staff/anthony-love){:target="_blank"}
 - Dr. Ivan Lengyel

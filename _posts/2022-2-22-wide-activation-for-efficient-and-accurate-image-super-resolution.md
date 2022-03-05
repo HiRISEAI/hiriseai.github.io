@@ -6,7 +6,7 @@ image: assets/images/ESP_011268_2485_000016.jpg
 tags: [ imagery, AI ]
 ---
 
-[Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf){:target="_blank"}  
+[Wide Activation for Efficient and Accurate Image Super-Resolution](https://arxiv.org/abs/1808.08718){:target="_blank"}  
 
 **Published in**:   
 CVPR 2018 
