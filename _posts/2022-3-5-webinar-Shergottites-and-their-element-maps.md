@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Webinar: 3D Imaging of Mars"  
+title:  "Webinar: Shergottites and Their Element Maps"  
 date: 2022-3-5  
 image: assets/images/anthony_thumb.png  
 tags: [ imagery, Webinars, meteorites, events ]
