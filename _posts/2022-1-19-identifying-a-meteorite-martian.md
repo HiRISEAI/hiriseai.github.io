@@ -3,7 +3,7 @@ layout: post
 title:  "Identifying a Meteorite Martian"
 date: 2022-1-19
 image: assets/images/chima.png
-tags: [ imagery, tutorials ]
+tags: [ imagery, education ]
 ---
 
 Meteorites are solid pieces of natural space debris that do not completely disintegrate during their descent through the Earth's atmosphere. Research suggests that most meteorites come from fragments of asteroids in solar orbits between Mars and Jupiter, but some meteorites also originate from the Moon and Mars. You can find the following websites which provide excellent information about Martian meteorites:  

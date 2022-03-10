@@ -3,7 +3,7 @@ layout: post
 title:  "Volcanoes of the McCullough Range, Southern Nevada"
 date: 2022-1-15
 image: assets/images/mccullough.png
-tags: [ more, tutorials ]
+tags: [ more, education ]
 ---
 
 [Volcanoes of the McCullough Range, Southern Nevada](http://geoscience.unlv.edu/files/Smith,%20Honn%20and%20Johnsen%202010.pdf){:target="_blank"}  

@@ -3,7 +3,7 @@ layout: post
 title:  "My Nevada: the Dramatic Events that Shaped Our Land"
 date: 2022-1-15
 image: assets/images/hoover.jpg
-tags: [ more, tutorials ]
+tags: [ more, education ]
 ---
 
 This piece comes from geology professor Steve Rowland on Feb 27, 2014. He studies the history of life on Earth as recorded in the fossil record, especially the paleontology of Southern Nevada and adjacent regions. His research ranges from the earliest (late pre-Cambrian) animal fossils, to Jurassic dinosaur tracks and those of co-existing animals in Red Rock Canyon and Valley of Fire State Park, to Ice Age fossils of the Tule Springs area. He also studies the history of geology, particularly 18th century Russian geology. 

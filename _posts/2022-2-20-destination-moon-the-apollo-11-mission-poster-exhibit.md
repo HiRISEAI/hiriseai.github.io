@@ -3,7 +3,7 @@ layout: post
 title:  "Destination Moon: The Apollo 11 Mission Poster Exhibit is on the View at the Clark County Library Art Gallery"
 date: 2022-2-20
 image: assets/images/destination.png
-tags: [ tutorials, exhibits ]
+tags: [ education, exhibits ]
 ---
 
 The Destination Moon: The Apollo 11 Mission Poster Exhibit is on the view at the Clark County Libary Art Gallery.  

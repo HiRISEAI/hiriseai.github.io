@@ -2,8 +2,8 @@
 layout: post
 title:  "HiRISEAI Poster Exhibit on the View at the Clark County Libary Art Gallery"
 date: 2022-3-1
-image: assets/images/exhibit.jpg
-tags: [ imagery, tutorials, exhibits, AI ]
+image: assets/images/art_gallery.jpeg
+tags: [ imagery, education, exhibits, AI ]
 ---
 
 

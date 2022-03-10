@@ -3,7 +3,7 @@ layout: post
 title:  "Instructions for Training StyleGAN3"
 date: 2022-2-28
 image: assets/images/synthetic.jpg
-tags: [ AI, tutorials ]
+tags: [ AI, education ]
 ---
 
 **Prerequisites**:
