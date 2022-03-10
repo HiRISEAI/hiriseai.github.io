@@ -23,7 +23,7 @@ First Prize: $500
 
 **Sign up now**:  
 [https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link){:target="_blank"}  
-Sign the NASA Media Release Form for Minors if you are a minor; or sign the NASA Media Release From for Adults if you are an adult.  
+Sign the [NASA Media Release for Parents and Minors](https://drive.google.com/file/d/1-g2IpDTIaOEPmSwG_QyQtxADubgEdbnc/view?usp=sharing){:target="_blank"} if you are a minor; or sign the [NASA Media Release for Adults](https://drive.google.com/file/d/1FRfAGDAfHXiPHfy3X-SwTvCkgJZZmEkG/view?usp=sharing){:target="_blank"} if you are an adult.  
 
 Once you entered and send your signed NASA Media Release Form to pingwang@nova77.org, you will be invited to our Slack Channel and will be supported by our mentors.  
 
