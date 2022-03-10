@@ -9,7 +9,7 @@ tags: [ imagery, events, education, AI ]
 *The Martian Challenge 2022 is supported by NASA Grant 80NSSC22K0440.*
 
 **The Challenge:**  
-**You're invited to choose a Martian crater as next landing site. Give your reasons by using images from past and current Mars explorations.**  
+**You're invited to choose a Martian crater as the next landing site. Give your reasons by using images from past and current Mars explorations.**  
 
 **Eligibility**:  
 The Martian Challenge 2022 is open to everyone. You can participate as an individual or in a team.    
