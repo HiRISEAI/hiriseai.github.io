@@ -12,15 +12,20 @@ tags: [ imagery, events, education, AI ]
 **You're invited to choose a Martian crater as next landign site. Give your reasons by using images from past and current Mars explorations.**  
 
 **Eligibility**:  
-      The Martian Challenge 2022 is open to everyone. You can participate as an individual or in a team.    
-      However, due to rules imposed by NASA, citizens of designated countries are not eligible.  
+The Martian Challenge 2022 is open to everyone. You can participate as an individual or in a team.    
+However, due to rules imposed by NASA, citizens of designated countries are not eligible.  
 
-**Prize**: First Prize: $500  
+**Prize**:  
+First Prize: $500  
 
+**Submission Opens**: 5/21/7:59am PST  
 **Submission Deadline**: 5/29/2022 11:59pm PST  
 
-[**Enter now**](https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link){:target="_blank"}  
-Once you entered, you will be invited to our Slack Channel and will be supported by our mentors.  
+**Sign up now**:  
+[https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link){:target="_blank"}  
+Sign the NASA Media Release Form for Minors if you are a minor; or sign the NASA Media Release From for Adults if you are an adult.  
+
+Once you entered and send your signed NASA Media Release Form to pingwang@nova77.org, you will be invited to our Slack Channel and will be supported by our mentors.  
 
 **Resources**:
 - Project website: [https://hiriseai.github.io/](https://hiriseai.github.io/){:target="_blank"}
@@ -38,7 +43,8 @@ Once you entered, you will be invited to our Slack Channel and will be supported
 [Intellectual Property Rights and Attibution](https://drive.google.com/file/d/1_ShWtcoqlKDwF5p--BFZVyit1NRdGBCM/view?usp=sharing){:target="_blank"}  
 [General Rules](https://drive.google.com/file/d/1hdZIE4L6eCdbibZsSwBxt05h_4uoFc_I/view?usp=sharing){:target="_blank"}
 
-**Contact Us**: Email pingwang@nova77.org if you have any questions. 
+**Contact Us**:  
+Email pingwang@nova77.org if you have any questions. 
 
 
 
