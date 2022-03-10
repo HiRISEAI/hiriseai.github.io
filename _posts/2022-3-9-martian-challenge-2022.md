@@ -40,7 +40,7 @@ Once you've signed up and sent your signed NASA Media Release Form to pingwang@n
 - Arvidson et. al., 2008 [Mars Exploration Program 2007 Phoenix Landing Site Selection and Characteristics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JE003021){:target="_blank"}
 - [https://mars.nasa.gov/mars2020/timeline/prelaunch/landing-site-selection/](https://mars.nasa.gov/mars2020/timeline/prelaunch/landing-site-selection/){:target="_blank"}
 
-[Intellectual Property Rights and Attibution](https://drive.google.com/file/d/1_ShWtcoqlKDwF5p--BFZVyit1NRdGBCM/view?usp=sharing){:target="_blank"}  
+[Intellectual Property Rights and Attribution](https://drive.google.com/file/d/1_ShWtcoqlKDwF5p--BFZVyit1NRdGBCM/view?usp=sharing){:target="_blank"}  
 [General Rules](https://drive.google.com/file/d/1hdZIE4L6eCdbibZsSwBxt05h_4uoFc_I/view?usp=sharing){:target="_blank"}
 
 **Contact Us**:  
