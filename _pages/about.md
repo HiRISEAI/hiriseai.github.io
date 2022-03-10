@@ -81,19 +81,33 @@ We are also grateful for the following individuals, universities and other insti
   </div>
   <div class="col-md-8" markdown="1">
   <p></p>
-  </div>  
+  </div>
+  &nbsp;
+
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/otago.jpg" class="img-fluid" alt="Otago Museum" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <p></p>
+  </div>
+  &nbsp;
+
   <div class="col-md-4" markdown="1">
    <img src="/assets/images/hughes.png" class="img-fluid" alt="College of Engineering UNLV" />
   </div>
   <div class="col-md-8" markdown="1">
   <p></p>
   </div>
+  &nbsp;
+
   <div class="col-md-4" markdown="1">
    <img src="/assets/images/geoscience.png" style="background: black;" class="img-fluid" alt="Department of Geoscience UNLV" />
   </div>
   <div class="col-md-8" markdown="1">
   <p></p>
   </div>
+  &nbsp;
+
 </div>
 
 - [Dr. Chris Heavey, Executive Vice President and Provost, UNLV](https://www.unlv.edu/people/chris-heavey){:target='_blank'}  
