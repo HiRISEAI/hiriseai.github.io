@@ -25,7 +25,7 @@ First Prize: $500
 [https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSe3V0PgIcjCQiRBUWZr-Y5hee0v78zrWHVBa6eEEE5taiUnzA/viewform?usp=sf_link){:target="_blank"}  
 Sign the [NASA Media Release for Parents and Minors](https://drive.google.com/file/d/1-g2IpDTIaOEPmSwG_QyQtxADubgEdbnc/view?usp=sharing){:target="_blank"} if you are a minor; or sign the [NASA Media Release for Adults](https://drive.google.com/file/d/1FRfAGDAfHXiPHfy3X-SwTvCkgJZZmEkG/view?usp=sharing){:target="_blank"} if you are an adult.  
 
-Once you entered and send your signed NASA Media Release Form to pingwang@nova77.org, you will be invited to our Slack Channel and will be supported by our mentors.  
+Once you've signed up and sent your signed NASA Media Release Form to pingwang@nova77.org, you will be invited to our Slack Channel and will be supported by our mentors.  
 
 **Resources**:
 - Project website: [https://hiriseai.github.io/](https://hiriseai.github.io/){:target="_blank"}
