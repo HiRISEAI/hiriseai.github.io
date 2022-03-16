@@ -15,9 +15,9 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Dr. Eugene Smith
 - Dr. Racheal Johnsen
 - Shalee Okelberry
-- Erich Liang
 - Dr. Chris DeFelice
 - Dr. Helen Zhang
+- Erich Liang
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
