@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collages of Images Presented at the Clark County Libary Art Gallery"
+title:  "Collages of Images Presented at the Clark County Library Art Gallery"
 date: 2022-3-1
 image: assets/images/collage_thumb.jpg
 tags: [ imagery, education, exhibits, AI ]
