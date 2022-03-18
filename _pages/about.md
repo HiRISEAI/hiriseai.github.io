@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p><div>
-<img src="/assets/images/ESP_071952_1670.jpg" class="img-fluid" alt=" " />
+<img src="/assets/images/erich.png" class="img-fluid" alt="Erich" />
 </div></p>
 
 HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, and research. The goal of the project is to inspire innovators locally and globally.
@@ -17,7 +17,6 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Shalee Okelberry
 - Dr. Chris DeFelice
 - Dr. Helen Zhang
-- Erich Liang
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
