@@ -15,7 +15,7 @@ tags: [ imagery, Webinars, events ]
 
 <div><img src="/assets/images/kathy.png" class="img-fluid" alt="Kathy" /></div><br>
 
-Dr. Kathleen Campbell is a geolgoist, paleoecologist, and astrobiologist. She got her PhD from Univeristy of Southern California and did her postdoc at NASA Ames Research Center in California. Dr. Campbell participated in the 3rd and 4th Mars landing site selection workshops hosted by JPL/NASA, where her team advocated fro returning to the Columbia Hills hot spring site in Gusev Crater. She is part of an international team of scientists reporting to NASA on the relevance of and strategies for Mars sample return.  
+Dr. Kathleen Campbell is a geolgoist, paleoecologist, and astrobiologist. She got her PhD from Univeristy of Southern California and did her postdoc at NASA Ames Research Center in California. She participated in the 3rd and 4th Mars landing site selection workshops hosted by JPL/NASA, where her team advocated fro returning to the Columbia Hills hot spring site in Gusev Crater. She is part of an international team of scientists reporting to NASA on the relevance of and strategies for Mars sample return.  
 
 **Audience**: children 6-99  
 **Moderator**: Ping Wang  
