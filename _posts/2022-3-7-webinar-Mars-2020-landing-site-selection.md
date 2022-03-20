@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar: Mars 2020 Landing Site Selection"  
 date: 2022-3-7  
 image: assets/images/kathy.png  
-tags: [ imagery, Webinars, events ]
+tags: [ imagery, Webinars, events, education ]
 ---
 
 **Nova77 Webinar Series 2022**

@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar: MarsGAN"  
 date: 2022-3-5  
 image: assets/images/ivan_thumb.png  
-tags: [ imagery, Webinars, events ]
+tags: [ imagery, Webinars, events, education ]
 ---
 
 **Nova77 Webinar Series 2022**

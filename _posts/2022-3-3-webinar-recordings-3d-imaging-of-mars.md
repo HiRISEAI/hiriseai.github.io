@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar Recordings: 3D Imaging of Mars"  
 date: 2022-3-3   
 image: assets/images/yu_1.png  
-tags: [ imagery, Webinars, events ]
+tags: [ imagery, Webinars, events, education ]
 ---
 
 Dr. Yu Tao and Dr. Susan Conway gave us a fantastic presentation on 3D Imaging of Mars.  

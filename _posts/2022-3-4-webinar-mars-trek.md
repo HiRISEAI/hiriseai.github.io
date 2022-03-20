@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar: Mars Trek"  
 date: 2022-3-4 
 image: assets/images/emily_thumb.png  
-tags: [ imagery, Webinars, events ]
+tags: [ imagery, Webinars, education, events ]
 ---
 
 **Nova77 Webinar Series 2022**

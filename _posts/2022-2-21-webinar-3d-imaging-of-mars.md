@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar: 3D Imaging of Mars"  
 date: 2022-2-20  
 image: assets/images/3d_imaging_of_mars_thumb.png  
-tags: [ imagery, Webinars, events ]
+tags: [ imagery, Webinars, events, education ]
 ---
 
 **Nova77 Webinar Series 2022**
