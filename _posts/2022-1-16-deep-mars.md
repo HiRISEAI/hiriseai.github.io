@@ -3,7 +3,7 @@ layout: post
 title:  Deep Mars
 date: 2022-1-16
 image: assets/images/deep_mars.png
-tags: [ AI, imagery, craters ]
+tags: [ AI, imagery, craters, MinLab ]
 ---
 
 [Deep Mars: CNN Classification of Mars Imagery for the PDS Imaging Atlas](https://ojs.aaai.org/index.php/AAAI/article/view/11404){:target="_blank"} 
