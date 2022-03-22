@@ -3,7 +3,7 @@ layout: post
 title:  "The Iris Dataset"  
 date: 2022-3-7  
 image: assets/images/iris.jpg  
-tags: [ education, AI ]
+tags: [ education, AI, MinLab ]
 ---
 
 <div><img src="/assets/images/iris-machinelearning.png" class="img-fluid" alt="iris" /></div><br>
