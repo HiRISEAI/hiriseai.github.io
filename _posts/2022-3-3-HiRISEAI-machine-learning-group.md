@@ -13,8 +13,8 @@ The group consists of a weekly meeting, a mailing list and our Slack channel. We
 **Mailing List**: 
 Please subscribe our mailing list at hiriseai@nova77.org
 
-**Meeting Agenda**:
-Time: Sundays, 7-8pm PDT
+**Meeting Agenda**:  
+Time: Sundays, 7-8pm PDT  
 Location: Zoom meetings
 
 **Sun, 3/27/2022 Meeting Agenda**:
