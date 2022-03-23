@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinar: MarsGAN"  
-date: 2022-3-5  
+date: 2022-3-1  
 image: assets/images/ivan_thumb.png  
 tags: [ imagery, Webinars, events, education ]
 ---

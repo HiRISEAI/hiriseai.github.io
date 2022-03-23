@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Iris Dataset"  
-date: 2022-3-7  
+date: 2022-3-3  
 image: assets/images/iris.jpg  
 tags: [ education, AI, MinLab ]
 ---
