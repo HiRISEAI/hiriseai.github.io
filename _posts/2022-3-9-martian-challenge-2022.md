@@ -15,9 +15,6 @@ tags: [ imagery, events, education, AI ]
 The Martian Challenge 2022 is open to everyone. You can participate as an individual or in a team.    
 However, due to rules imposed by NASA, citizens of designated countries are not eligible. 
 
-**Prize**:
-First prize: $500  
-
 **Submission Opens**: 5/21/2022 7:59am PST  
 **Submission Deadline**: 5/29/2022 11:59pm PST  
 
