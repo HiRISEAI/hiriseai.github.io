@@ -21,7 +21,7 @@ Location: Zoom meetings
 1. Overview of RSL on Mars
 2. The Iris Dataset
 3. Inroduction to Decision Trees
-4. We're going to use the book (1) "*Introduction to Data Mining*" by Pang-Ning Tan, Michael Steinbach, Anuji Karpatne, Vipin Kumar; and (2) "*Grokking Machine Learning Version 7*" by Luis G. Serrano
+4. The books we're going to use including: (1) *Introduction to Data Mining* by Pang-Ning Tan, Michael Steinbach, Anuji Karpatne, Vipin Kumar; (2) *Grokking Machine Learning Version 7* by Luis G. Serrano; (3) *Classification and Regression Trees* by Leo breiman, Jerome H. Friedman, Richard A.Olshe, Charles J. Stone
 
 
 
