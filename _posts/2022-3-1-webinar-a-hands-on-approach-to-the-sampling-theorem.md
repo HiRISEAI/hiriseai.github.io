@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Hands-on Approach to the Sampling Theorem"  
-date: 2022-3-8  
+date: 2022-3-1  
 image: assets/images/daisuke.png  
 tags: [ imagery, events, Webinars, education, AI ]
 ---
