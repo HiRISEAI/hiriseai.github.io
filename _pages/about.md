@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/images/erich.png" class="img-fluid" alt="Erich" />
 </div></p>
 
-HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, and research. The goal of the project is to inspire innovators locally and globally.
+HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars and Lunar explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, and research. The goal of the project is to inspire innovators locally and globally.
  
 
 **Our Team**:  
