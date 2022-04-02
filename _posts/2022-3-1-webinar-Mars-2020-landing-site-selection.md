@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinar: Mars 2020 Landing Site Selection"  
-date: 2022-3-7  
+date: 2022-3-1  
 image: assets/images/kathy.png  
 tags: [ imagery, Webinars, events, education ]
 ---
