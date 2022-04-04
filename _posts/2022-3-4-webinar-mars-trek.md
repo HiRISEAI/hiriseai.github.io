@@ -9,7 +9,7 @@ tags: [ imagery, Webinars, education, events ]
 **Nova77 Webinar Series 2022**
 
 **Title**: Mars Trek  
-**Time**: Mon, April 4, 3-3:30pm PST  
+**Time**: Mon, April 4, 3-3:30pm PDT  
 **Speaker**: Emily Law (Jet Propulsion Laboratory)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Webinar: Mars Trek"  
+title:  "Webinar: Martian Crater Identification Using Machine Learning"  
 date: 2022-3-4 
 image: assets/images/wei.png  
 tags: [ imagery, Webinars, meteorites, education, events ]
@@ -9,7 +9,7 @@ tags: [ imagery, Webinars, meteorites, education, events ]
 **Nova77 Webinar Series 2022**
 
 **Title**: Marrtian Crater Identification Using Machine Learning  
-**Time**: Fri, April 8, 3-3:30pm PST  
+**Time**: Fri, April 8, 4-5pm PDT  
 **Speaker**: Dr. Wei Ding (University of Massachusetts Boston)
 
 
