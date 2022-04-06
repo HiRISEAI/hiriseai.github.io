@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinar: Mars Trek"  
-date: 2022-3-4 
+date: 2022-3-1 
 image: assets/images/emily_thumb.png  
 tags: [ imagery, Webinars, education, events ]
 ---

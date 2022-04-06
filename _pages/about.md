@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p><div>
-<img src="/assets/images/erich.png" class="img-fluid" alt="Erich" />
+<img src="/assets/images/ESP_034830_1670.jpg" class="img-fluid" alt="RSL" />
 </div></p>
 
 HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian landscapes and other image data from Mars and Lunar explorations. In this project, we strive to meet the needs of our high school students and their families in southern Nevada as well as the public at large by serving as a uniquely rich resource of materials and information through exhibits, education, and research. The goal of the project is to inspire innovators locally and globally.
@@ -124,8 +124,8 @@ We are also grateful for the following individuals, universities and other insti
 - [Dr. Pengyu Hong, Professor of Computer Science, Brandeis University](https://www.cs.brandeis.edu/~hong/){:target="_blank"}  
 - [Dr. Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
 - [Dr. Susan Conway, CNRS Research Scientist](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=643&lang=en){:target="_blank"}  
-- [Dr. Wei Ding, Professor of Computer Science, University of Massachusets Boston](https://www.cs.umb.edu/~ding/){:target="_blank"}
 - [Anthony Love, Dept. of Geological and Environmental Sciences](https://earth.appstate.edu/faculty-staff/anthony-love){:target="_blank"}
+- Emily Law, NASA's Jet Propulsion Laboratory
 - Dr. Ivan Lengyel
 - Snehitha Kamasani, Support Engineer, Azure Subscription Management Support
 - Bayard Mason, Associate Solutions Architect, Amazon Web Services

@@ -7,7 +7,7 @@ tags: [ education, AI, MinLab, note.PyTorch ]
 ---
 
 
-**PyTorch has various component**. For example,
+**PyTorch has various components**. For example,
 - `torch` has functionalities similar to NumPy with GPU support.
 -  `torch.autograd` provides classes, methods, and functions for implementing automatic differentiation of arbitrary scalar valued functions. 
 - `nn` is a neural network library in PyTorch.
