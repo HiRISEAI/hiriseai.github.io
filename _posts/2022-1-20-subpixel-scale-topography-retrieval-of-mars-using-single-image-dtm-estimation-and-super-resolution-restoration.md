@@ -3,7 +3,7 @@ layout: post
 title:  "Subpixel-Scale Topography Retrieval of Mars Using Single-Image DTM Estimation and Super-Resolution Restoration"
 date: 2022-1-20
 image: assets/images/tao_1.png
-tags: [ imagery ]
+tags: [ AI, MinLab ]
 ---
 
 [Subpixel-Scale Topography Retrieval of Mars Using Single-Image DTM Estimation and Super-Resolution Restoration](https://www.mdpi.com/2072-4292/14/2/257){:target="_blank"}  

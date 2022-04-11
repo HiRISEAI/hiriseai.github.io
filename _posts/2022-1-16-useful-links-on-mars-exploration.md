@@ -3,7 +3,7 @@ layout: post
 title:  Useful Links on Mars Exploration
 date: 2022-1-16
 image: assets/images/ESP_011314_1585_000004.jpg
-tags: [ imagery, education ]
+tags: [ MinLab ]
 ---
 
 - [HiRISE Picture of the Day Archive](https://www.uahirise.org/hipod/archive/){:target="_blank"}

@@ -3,7 +3,7 @@ layout: post
 title:  "Martian Challenge 2022"  
 date: 2022-3-9  
 image: assets/images/ESP_021603_1315_challenge.jpg  
-tags: [ imagery, events, education, AI ]
+tags: [ events ]
 ---
 
 *The Martian Challenge 2022 is supported by NASA Grant 80NSSC22K0440.*

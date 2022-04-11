@@ -3,7 +3,7 @@ layout: post
 title:  Introduction to Mars Maps
 date: 2022-1-16
 image: assets/images/mars_map.png
-tags: [ imagery, education ]
+tags: [ imagery, MinLab ]
 ---
 
 Johnathon Hill introduces Mars maps.

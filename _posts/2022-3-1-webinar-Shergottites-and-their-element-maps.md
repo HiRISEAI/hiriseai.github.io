@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar: Shergottites and Their Element Maps"  
 date: 2022-3-1  
 image: assets/images/anthony_thumb.png  
-tags: [ imagery, Webinars, meteorites, education, events ]
+tags: [ Webinars, events ]
 ---
 
 **Nova77 Webinar Series 2022**

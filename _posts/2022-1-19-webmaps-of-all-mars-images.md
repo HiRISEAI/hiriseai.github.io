@@ -3,7 +3,7 @@ layout: post
 title:  Webmaps of All Mars Images
 date: 2022-1-19
 image: assets/images/map_mars.png
-tags: [ imagery ]
+tags: [ imagery, MinLab ]
 ---
 
 - [Webmap of All THEMIS Images (2002-Present)](http://global-data.mars.asu.edu/bin/themis.pl){:target="_blank"}

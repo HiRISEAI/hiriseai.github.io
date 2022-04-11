@@ -3,7 +3,7 @@ layout: post
 title:  "In the News"
 date: 2022-1-17
 image: assets/images/ESP_071952_1670_2.png
-tags: [ more ]
+tags: [ events ]
 ---
 
 [Nova77 STEM Workshop receives NASA Community Anchor Award.](https://www.nasa.gov/press-release/nasa-selects-education-projects-to-help-broaden-stem-participation){:target="_blank"}

@@ -3,7 +3,7 @@ layout: post
 title: "Petrology and Geochemistry of Northwest Africa 11044, a New Enriched Low-AL Shergottite"
 date: 2022-1-16
 image: assets/images/nwa11044_BSE.jpg
-tags: [ meteorites ]
+tags: [ meteorites, MinLab ]
 ---
 
 **Published in**:   

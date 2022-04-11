@@ -3,7 +3,7 @@ layout: post
 title:  "An Improved Workflow for Producing Digital Terrain Models of Mars from CTX Stereo Data Using the NASA Ames Stereo Pipeline"
 date: 2022-1-20
 image: assets/images/mayer_dtm.png
-tags: [ imagery, DTMs ]
+tags: [ DTMs, MinLab ]
 ---
 
 [An Improved Workflow for Producing Digital Terrain Models of Mars from CTX Stereo Data Using the NASA Ames Stereo Pipeline](https://www.hou.usra.edu/meetings/lpsc2018/pdf/1604.pdf){:target="_blank"}  

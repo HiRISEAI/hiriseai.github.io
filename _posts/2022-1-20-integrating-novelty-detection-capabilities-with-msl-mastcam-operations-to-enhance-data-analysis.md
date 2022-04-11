@@ -3,7 +3,7 @@ layout: post
 title:  "Integrating Novelty Detection Capabilities with MSL Mastcam Operations to Enhance Data Analysis"
 date: 2022-1-20
 image: assets/images/integrating.png
-tags: [ imagery, AI ]
+tags: [ AI, MinLab ]
 ---
 
 **Published in**:   

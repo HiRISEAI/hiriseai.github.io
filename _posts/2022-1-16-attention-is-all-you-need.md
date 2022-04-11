@@ -3,7 +3,7 @@ layout: post
 title:  "Attention Is All You Need"
 date: 2022-1-16
 image: assets/images/ESP_025152_2640_000009.jpg
-tags: [ AI ]
+tags: [ AI, MinLab ]
 ---
 
 [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf){:target="_blank"}

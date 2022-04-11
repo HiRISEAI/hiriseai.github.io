@@ -3,7 +3,7 @@ layout: post
 title:  "Butterfly Craters Challenge"  
 date: 2022-3-9  
 image: assets/images/ESP_036281_2110_RED.abrowse_thumb.jpg  
-tags: [ imagery, events, education ]
+tags: [ events ]
 ---
 
 *The Butterfly Craters Challenge is supported by NASA Grant 80NSSC22K0440.*

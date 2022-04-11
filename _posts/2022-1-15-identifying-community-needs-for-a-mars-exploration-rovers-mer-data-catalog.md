@@ -3,7 +3,7 @@ layout: post
 title: "Identifying Community Needs for a Mars Exploration Rovers (MER) Data Catalog"
 date: 2022-1-15
 image: assets/images/ESP_025125_1695_000007.jpg
-tags: [ imagery ]
+tags: [ MinLab ]
 ---
 
 [Identifying Community Needs for a Mars Exploration Rovers (MER) Data Catalog](https://www.hou.usra.edu/meetings/lpsc2020/pdf/1709.pdf){:target="_blank"}  

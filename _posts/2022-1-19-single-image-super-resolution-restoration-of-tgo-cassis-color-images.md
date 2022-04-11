@@ -3,7 +3,7 @@ layout: post
 title: "Single Image Super-Resolution Restoration of TGO CaSSIS Colour Images: Demonstration with Perseverance Rover Landing Site and Mars Science Targets"
 date: 2022-1-19
 image: assets/images/single.png
-tags: [ imagery, AI ]
+tags: [ AI, MinLab ]
 ---
 
 [Single Image Super-Resolution Restoration of TGO CaSSIS Colour Images: Demonstration with Perseverance Rover Landing Site and Mars Science Targets](https://www.mdpi.com/2072-4292/13/9/1777){:target="_blank"}  

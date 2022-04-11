@@ -3,7 +3,7 @@ layout: post
 title:  "The Science Process for Selecting the Landing Site for the 2020 Mars Rover"
 date: 2022-1-20
 image: assets/images/grant.png
-tags: [ imagery ]
+tags: [ MinLab ]
 ---
 
 **Published in**:   
