@@ -3,7 +3,7 @@ layout: post
 title:  "PyTorch Notes: PyTorch Tensors"  
 date: 2022-3-3  
 image: assets/images/ESP_011785_1875_4_1_notes.pytorch.png  
-tags: [ AI, MinLab, notes.MachineLearning ]
+tags: [ AI, MinLab, notes.ML ]
 ---
 
 
