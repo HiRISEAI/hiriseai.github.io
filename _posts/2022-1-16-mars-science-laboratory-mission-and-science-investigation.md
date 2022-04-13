@@ -3,7 +3,7 @@ layout: post
 title: "Mars Science Laboratory Mission and Science Investigation"
 date: 2022-1-16
 image: assets/images/msl.png
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 **Published in**:   

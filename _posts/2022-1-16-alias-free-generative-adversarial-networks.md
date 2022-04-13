@@ -3,7 +3,7 @@ layout: post
 title:  "Alias-Free Generative Adversarial Networks"
 date: 2022-1-16
 image: assets/images/stylegan3.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Alias-Free Generative Adversarial Networks](https://arxiv.org/pdf/2106.12423.pdf){:target="_blank"}

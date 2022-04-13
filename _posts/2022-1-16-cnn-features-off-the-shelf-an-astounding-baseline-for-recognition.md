@@ -3,7 +3,7 @@ layout: post
 title: "CNN Features Off-the-shelf: An Astounding Baseline for Recognition"
 date: 2022-1-16
 image: assets/images/ESP_025124_1985_000005.jpg
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 **Published in**:   

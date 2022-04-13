@@ -3,7 +3,7 @@ layout: post
 title:  "Observations From a Global Database of Impact Craters on Mercury With Diameters Greater than 5 km"
 date: 2022-3-5
 image: assets/images/978-1-4614-3134-3_2_Part_Fig1-27_HTML.jpg
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 **Published in**:   

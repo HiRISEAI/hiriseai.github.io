@@ -3,7 +3,7 @@ layout: post
 title:  "The Web-based Interactive Mars Analysis and Research System for the iMars project"
 date: 2022-1-20
 image: assets/images/walter1.png
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 [The Web-based Interactive Mars Analysis and Research System for the iMars project](https://meetingorganizer.copernicus.org/EPSC2018/EPSC2018-37.pdf){:target="_blank"}  

@@ -3,7 +3,7 @@ layout: post
 title:  "Training Generative Adversarial Networks with Limited Data"
 date: 2022-1-16
 image: assets/images/s3.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676.pdf){:target="_blank"}

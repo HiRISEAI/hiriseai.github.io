@@ -3,7 +3,7 @@ layout: post
 title:  "Elliptical craters and basins on the terrestrial planets"
 date: 2022-3-5
 image: assets/images/pia17397.jpg
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 **Published in**:   

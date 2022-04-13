@@ -3,7 +3,7 @@ layout: post
 title:  "Deep Learning 101 by Arthur Douillard"
 date: 2022-1-20
 image: assets/images/aivsmlvsdl.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, notes.ML ]
 ---
 
 Here's a Deep Learning Course for Vision, from basics to State-of-the-Art by Arthur Douillard, a lecturer in Parisian Engineering School EPITA where he teaches Computer Vision:

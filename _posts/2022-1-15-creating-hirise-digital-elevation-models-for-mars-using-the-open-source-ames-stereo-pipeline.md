@@ -3,7 +3,7 @@ layout: post
 title: "Creating HiRISE Digital Elevation Models for Mars Using the Open-source Ames Stereo Pipeline"
 date: 2022-1-15
 image: assets/images/dune_dem.png
-tags: [ imagery ]
+tags: [ MinLab, articles ]
 ---
 
 **Published in**:   

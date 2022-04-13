@@ -3,7 +3,7 @@ layout: post
 title:  "The transition from circular to elliptical impact craters"
 date: 2022-3-5
 image: assets/images/V30669005.png
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 **Published in**:   

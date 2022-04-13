@@ -3,7 +3,7 @@ layout: post
 title:  "A Labeled Image Dataset for Deep Learning-Driven Rockfall Detection on the Moon and Mars"
 date: 2022-1-20
 image: assets/images/labeled.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 **Published in**:   

@@ -3,7 +3,7 @@ layout: post
 title:  "ImageNet Classification with Deep Convolutional Neural Networks"
 date: 2022-1-16
 image: assets/images/ESP_016572_1875_RED-0073.jpg
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf){:target="_blank"} 

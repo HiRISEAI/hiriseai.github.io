@@ -3,7 +3,7 @@ layout: post
 title:  "An Image Is Worth 16X16 Words: Transformers for Image Recognition at Scale"
 date: 2022-1-16
 image: assets/images/ESP_025154_1975_000011.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [An Image Is Worth 16X16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf){:target="_blank"}

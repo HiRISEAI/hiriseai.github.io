@@ -3,7 +3,7 @@ layout: post
 title:  Petrology and Origin of the Shergottite Meteorites
 date: 2022-1-20
 image: assets/images/Microscopic-images-of-martian-meteorites.png
-tags: [ meteorites, MinLab ]
+tags: [ meteorites, MinLab, articles ]
 ---
 
 [Petrology and Origian of the Shergottite Meteorites](https://www-sciencedirect-com.ezproxy.library.unlv.edu/science/article/pii/001670377990142X){:target="_blank"} 

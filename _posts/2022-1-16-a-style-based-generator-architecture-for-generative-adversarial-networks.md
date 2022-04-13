@@ -3,7 +3,7 @@ layout: post
 title:  "A Style-Based Generator Architecture for Generative Adversarial Networks"
 date: 2022-1-16
 image: assets/images/stylegan.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948){:target="_blank"}

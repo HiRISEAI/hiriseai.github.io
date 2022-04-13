@@ -3,7 +3,7 @@ layout: post
 title:  "Analyzing and Improving the Image Quality of StyleGAN"
 date: 2022-1-16
 image: assets/images/stylegan2.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf){:target="_blank"}

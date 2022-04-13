@@ -3,7 +3,7 @@ layout: post
 title:  "Large Area High-Resolution 3D Mapping of Oxia Planum: The Landing Site for the ExoMars Rosalind Franklin Rover"
 date: 2022-1-20
 image: assets/images/oxia_planum_1.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Large Area High-Resolution 3D Mapping of Oxia Planum: The Landing Site for the ExoMars Rosalind Franklin Rover](https://www.mdpi.com/2072-4292/13/16/3270){:target="_blank"}  

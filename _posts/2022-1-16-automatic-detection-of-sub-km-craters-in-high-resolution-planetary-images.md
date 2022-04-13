@@ -3,7 +3,7 @@ layout: post
 title:  Automatic Detection of Sub-km Craters in High Resolution Planetary Images
 date: 2022-1-16
 image: assets/images/ESP_011425_1775.jpg
-tags: [ AI, MinLab, craters ]
+tags: [ AI, MinLab, craters, articles ]
 ---
 
 **Published in**:   

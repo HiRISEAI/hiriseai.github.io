@@ -3,7 +3,7 @@ layout: post
 title: "Machine learning-based prediction of trace element concentrations using data from the Karoo large igneous province and its application in prospectivity mapping"
 date: 2022-1-19
 image: assets/images/ml_traceelement.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Machine learning-based prediction of trace element concentrations using data from the Karoo large igneous province and its application in prospectivity mapping](https://reader.elsevier.com/reader/sd/pii/S2666544121000289?token=D4C894729B80ED63EF2E0C8ABFE1C47F1F69191DB8F3374C374E22752C058582D04647F785EA8F920306C7580B74461F&originRegion=us-east-1&originCreation=20220227143728){:target="_blank"}  

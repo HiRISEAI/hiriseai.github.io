@@ -3,7 +3,7 @@ layout: post
 title:  "Wide Activation for Efficient and Accurate Image Super-Resolution"
 date: 2022-2-22
 image: assets/images/ESP_011264_1090_0_5.jpg
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 [Wide Activation for Efficient and Accurate Image Super-Resolution](https://arxiv.org/abs/1808.08718){:target="_blank"}  

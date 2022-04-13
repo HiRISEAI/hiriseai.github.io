@@ -3,7 +3,7 @@ layout: post
 title:  "Oxia Planum: The Landing Site for the ExoMars ‘‘Rosalind Franklin’’ Rover Mission: Geological Context and Prelanding Interpretation"
 date: 2022-1-20
 image: assets/images/oxia_planum_2.png
-tags: [ MinLab ]
+tags: [ MinLab, articles ]
 ---
 
 [Oxia Planum: The Landing Site for the ExoMars ‘‘Rosalind Franklin’’ Rover Mission: Geological Context and Prelanding Interpretation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987365/pdf/ast.2019.2191.pdf){:target="_blank"}  

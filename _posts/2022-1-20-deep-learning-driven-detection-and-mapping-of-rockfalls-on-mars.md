@@ -3,7 +3,7 @@ layout: post
 title:  "Deep Learning-Driven Detection and Mapping of Rockfalls on Mars"
 date: 2022-1-20
 image: assets/images/rockfall.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 **Published in**:   

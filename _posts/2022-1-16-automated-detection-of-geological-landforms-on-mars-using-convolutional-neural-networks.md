@@ -3,7 +3,7 @@ layout: post
 title: "Automated Detection of Geological Landforms on Mars Using Convolutional Neural Networks"
 date: 2022-1-16
 image: assets/images/mars_landforms.png
-tags: [ AI, MinLab ]
+tags: [ AI, MinLab, articles ]
 ---
 
 **Published in**:   
