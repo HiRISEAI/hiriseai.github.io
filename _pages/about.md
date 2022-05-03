@@ -17,8 +17,7 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Shalee Okelberry
 - Dr. Chris DeFelice
 - Dr. Helen Zhang
-- Dr. Qiusheng Wu
-- Dr. Atlas Wang
+- Dr. Yao Tao
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
