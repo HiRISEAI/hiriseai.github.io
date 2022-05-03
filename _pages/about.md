@@ -14,7 +14,6 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Ping Wang (Principal Investigator)
 - Dr. Eugene Smith
 - Dr. Racheal Johnsen
-- Shalee Okelberry
 - Dr. Chris DeFelice
 - Dr. Helen Zhang
 - Dr. Yao Tao
