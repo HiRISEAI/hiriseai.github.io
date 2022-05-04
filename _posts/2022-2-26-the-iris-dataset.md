@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Iris Dataset"  
-date: 2022-3-3  
+date: 2022-2-26  
 image: assets/images/notes_ml.png
 tags: [ AI, MinLab, notes.ML ]
 ---
