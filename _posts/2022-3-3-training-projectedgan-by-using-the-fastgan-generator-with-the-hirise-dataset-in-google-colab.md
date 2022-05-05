@@ -7,7 +7,7 @@ tags: [ AI, MinLab, imagery ]
 ---
 
 
-<img src="/assets/images/hirise_projectedgan.gif">
+<img width=700 src="/assets/images/hirise_projectedgan.gif">
 
 <br>
 **Generative Adversarial Networks (GANs)**  
