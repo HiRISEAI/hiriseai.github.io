@@ -33,7 +33,7 @@ The Google Colab Pro which enables to access a Tesla P100 GPU by Nvidia with 16G
 
 **References**  
 
-A. Sauer, K. Chitta, J. Muller, A. Geiger. Projected GANs Converge Faster. In Neural Information Processing Systems (NeurIPS), 2021. 
+A. Sauer, K. Chitta, J. Muller, and A. Geiger. Projected GANs converge faster. In Neural Information Processing Systems (NeurIPS), 2021. 
 
 B. Liu, Y. Zhu, K. Song, and A. Elgammal. Towards faster and stabilized gan training for high-fidelity few-shot image synthesis. In Proc. of the International Conf. on Learning Representations (ICLR), 2021.
 
