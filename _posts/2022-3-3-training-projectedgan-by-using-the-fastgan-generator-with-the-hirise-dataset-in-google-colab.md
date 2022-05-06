@@ -6,7 +6,6 @@ image: assets/images/ESP_011527_1325_000005.jpg
 tags: [ AI, MinLab, imagery ]
 ---
 
-
 <img width=700 class="img-fluid" src="/assets/images/hirise_projectedgan.gif">
 
 <br>
@@ -31,5 +30,11 @@ The Google Colab Pro which enables to access a Tesla P100 GPU by Nvidia with 16G
 
 3. Resume training  
 `!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite \ --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=8 --batch-gpu=8 \ --snap=20 --kimg=10000 --resume=/content/drive/MyDrive/best_model.pkl`
+
+**References**  
+
+A. Sauer, K. Chitta, J. Muller, A. Geiger. Projected GANs Converge Faster. In Neural Information Processing Systems (NeurIPS), 2021. 
+
+B. Liu, Y. Zhu, K. Song, and A. Elgammal. Towards faster and stabilized gan training for high-fidelity few-shot image synthesis. In Proc. of the International Conf. on Learning Representations (ICLR), 2021.
 
 
