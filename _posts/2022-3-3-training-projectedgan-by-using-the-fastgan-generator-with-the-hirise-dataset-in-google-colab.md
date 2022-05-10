@@ -25,10 +25,14 @@ The Google Colab Pro which enables to access a Tesla P100 GPU by Nvidia with 16G
 1. Clone the ProjectedGAN repository  
 `!git clone https://github.com/autonomousvision/projected_gan.git`
 
-2. Train ProjectedGAN  
+2. Install dependencies  
+`!pip install timm`  
+`import timm`  
+
+3. Train ProjectedGAN  
 `!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite \ --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=8 --batch-gpu=8 \ --snap=20 --kimg=10000`
 
-3. Resume training  
+4. Resume training  
 `!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite \ --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=8 --batch-gpu=8 \ --snap=20 --kimg=10000 --resume=/content/drive/MyDrive/best_model.pkl`
 
 **References**  
