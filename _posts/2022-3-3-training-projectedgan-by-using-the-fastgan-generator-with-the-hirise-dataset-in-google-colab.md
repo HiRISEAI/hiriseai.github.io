@@ -30,10 +30,10 @@ The Google Colab Pro which enables to access a Tesla P100 GPU by Nvidia with 16G
 `import timm`  
 
 3. Train ProjectedGAN  
-`!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite \ --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=64 --batch-gpu=8 \ --snap=20 --kimg=10000`
+`!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=64 --batch-gpu=8 --snap=20 --kimg=10000`
 
 4. Resume training  
-`!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite \ --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=64 --batch-gpu=8 \ --snap=20 --kimg=10000 --resume=/content/drive/MyDrive/best_model.pkl`
+`!python train.py --outdir=/content/drive/MyDrive/runs/ --cfg=fastgan_lite --data=/content/drive/MyDrive/hirise_128gan.zip --gpus=1 --batch=64 --batch-gpu=8 --snap=20 --kimg=10000 --resume=/content/drive/MyDrive/best_model.pkl`
 
 **References**  
 
