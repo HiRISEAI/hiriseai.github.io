@@ -16,8 +16,9 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Dr. Racheal Johnsen
 - Dr. Chris DeFelice
 - Dr. Helen Zhang
-- Dr. Yu Tao
 - Dr. Henry Sun
+- Yu Tao
+- Emmett Seto
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
@@ -110,27 +111,28 @@ We are also grateful for the following individuals, universities and other insti
 
 </div>
 
-- [Dr. Chris Heavey, Executive Vice President and Provost, UNLV](https://www.unlv.edu/people/chris-heavey){:target='_blank'}  
-- [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}
+
 - Shana L. Harrington, Youth Services Manager, Library District Administrative Offices, LVCCLD
 - Darren Johnson, Gallery Services Manager, Libary District Administrative Offices, LVCCLD
 - Belinda Aspinall, Gallery Services Assistant, Library District Administrative Offices, LVCCLD
-- Chantalle L. Uzan, Maker Specialist, Best Buy Teen Tech Center, clark County Libary
-- Megan Nykodym, Teen Services Department Head, Clark County Library
 - Julie Okabayashi, Program Specialist, Clark County Library
-- [Dr. Shane Byrne, Professor, Lunar & Planetary Laboratory, University of Arizona](https://www.lpl.arizona.edu/faculty/byrne){:target="_blank"}
+
+- [Dr. Shane Byrne, Professor, Lunar & Planetary Laboratory, University of Arizona](https://www.lpl.arizona.edu/faculty/byrne){:target="_blank"}  
+- [Dr. Robert Herrick, Research Professor, University of Alaska Fairbanks](https://news.uaf.edu/expertsguide/robert-herrick/){:target="_blank"} 
+
+- [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}  
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
 - [Dr. Pengyu Hong, Professor of Computer Science, Brandeis University](https://www.cs.brandeis.edu/~hong/){:target="_blank"}  
-- [Dr. Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
+- Dr. Bingchen Liu, Research Scientist, ByteDance
+- [Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
 - [Dr. Susan Conway, CNRS Research Scientist](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=643&lang=en){:target="_blank"}  
 - [Anthony Love, Dept. of Geological and Environmental Sciences](https://earth.appstate.edu/faculty-staff/anthony-love){:target="_blank"}
 - Emily Law, NASA's Jet Propulsion Laboratory
 - Dr. Ivan Lengyel
-- Snehitha Kamasani, Support Engineer, Azure Subscription Management Support
+
 - Bayard Mason, Associate Solutions Architect, Amazon Web Services
 - Alli Gallo, Account Executive, Amazon Web Services
-- Dylan Harrell, Account Executive, Amazon Web Services
-- Loren Harper, Geoscience Department, UNLV
+
 
 
 
