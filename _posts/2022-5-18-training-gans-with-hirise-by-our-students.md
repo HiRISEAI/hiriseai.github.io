@@ -25,6 +25,6 @@ by Skylar from Henderson, NV, in 8th grade
 <br>
 <br>
 
-<img width=450 src="/assets/images/bowen_hirise.gif" class="img-fluid" alt="Skylar's" />  
+<img width=450 src="/assets/images/bowen_hirise.gif" class="img-fluid" alt="Bowen's" />  
 by Bowen from NYC, in 11th grade
 
