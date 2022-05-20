@@ -6,7 +6,7 @@ image: assets/images/kayla.png
 tags: [ imagery, exhibits, AI, MinLab ]
 ---
 
-The following are an online exhibit of Training GANs with HiRISE by our students during March-May 2022.
+The following is an online exhibit of Training GANs with HiRISE by our students during March-May 2022.
 
 
 <br>
