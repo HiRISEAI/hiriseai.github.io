@@ -119,6 +119,7 @@ We are also grateful for the following individuals, universities and other insti
 
 - [Dr. Shane Byrne, Professor, Lunar & Planetary Laboratory, University of Arizona](https://www.lpl.arizona.edu/faculty/byrne){:target="_blank"}  
 - [Dr. Robert Herrick, Research Professor, University of Alaska Fairbanks](https://news.uaf.edu/expertsguide/robert-herrick/){:target="_blank"} 
+- [Dr. Kathleen Campbell, Professor, University of Auckland](https://www.science.auckland.ac.nz/people/profile/ka-campbell){:target="_blank"} 
 
 - [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}  
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
