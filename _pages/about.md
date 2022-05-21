@@ -124,7 +124,6 @@ We are also grateful for the following individuals, universities and other insti
 - [Dr. Wenzhong Wang, Earth & Planetary Laboratory, Cargnegie Science](https://epl.carnegiescience.edu/people/postdoctoral/wenzhong-wang){:target="_blank"}  
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
 - [Dr. Pengyu Hong, Professor of Computer Science, Brandeis University](https://www.cs.brandeis.edu/~hong/){:target="_blank"}  
-- Dr. Bingchen Liu, Research Scientist, ByteDance
 - [Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
 - [Dr. Susan Conway, CNRS Research Scientist](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=643&lang=en){:target="_blank"}  
 - [Anthony Love, Dept. of Geological and Environmental Sciences](https://earth.appstate.edu/faculty-staff/anthony-love){:target="_blank"}
