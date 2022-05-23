@@ -35,5 +35,5 @@ by Kelly from San Jose, CA, in the 8th grade
 <br>
 <br>
 
-<img width=450 src="/assets/images/Bowen_hirise2.gif" class="img-fluid" alt="Bowen's" />  
+<img width=450 src="/assets/images/bowen_hirise2.gif" class="img-fluid" alt="Bowen's" />  
 by Bowen from NYC, in the 11th grade
