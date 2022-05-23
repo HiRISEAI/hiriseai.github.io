@@ -27,4 +27,9 @@ by Skylar from Henderson, NV, in 8th grade
 
 <img width=450 src="/assets/images/bowen_hirise.gif" class="img-fluid" alt="Bowen's" />  
 by Bowen from NYC, in 11th grade
+<br>
+<br>
+
+<img width=450 src="/assets/images/kelly_hirise.gif" class="img-fluid" alt="Kelly's" />  
+by Kelly from San Jose, CA, in 11th grade
 
