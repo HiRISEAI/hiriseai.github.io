@@ -11,25 +11,29 @@ The following is an online exhibit of Training GANs with HiRISE by our students 
 
 <br>
 <img width=450 src="/assets/images/alice_hirise.gif" class="img-fluid" alt="Alice's" />  
-by Alice from San Jose, CA, in 9th grade
+by Alice from San Jose, CA, in the 9th grade
 <br>
 <br>
 
 <img width=450 src="/assets/images/kayla_hirise.gif" class="img-fluid" alt="Kayla's" />  
-by Kayla from San Jose, CA, in 8th grade
+by Kayla from San Jose, CA, in the 8th grade
 <br>
 <br>
 
 <img width=250 src="/assets/images/skylar_hirise.gif" class="img-fluid" alt="Skylar's" />  
-by Skylar from Henderson, NV, in 8th grade
+by Skylar from Henderson, NV, in the 8th grade
 <br>
 <br>
 
 <img width=450 src="/assets/images/bowen_hirise.gif" class="img-fluid" alt="Bowen's" />  
-by Bowen from NYC, in 11th grade
+by Bowen from NYC, in the 11th grade
 <br>
 <br>
 
 <img width=450 src="/assets/images/kelly_hirise.gif" class="img-fluid" alt="Kelly's" />  
-by Kelly from San Jose, CA, in 11th grade
+by Kelly from San Jose, CA, in the 8th grade
+<br>
+<br>
 
+<img width=450 src="/assets/images/Bowen_hirise2.gif" class="img-fluid" alt="Bowen's" />  
+by Bowen from NYC, in the 11th grade
