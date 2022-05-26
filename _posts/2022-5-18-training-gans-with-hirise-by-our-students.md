@@ -49,3 +49,8 @@ by Bowen, 11th grader, from NYC
 <img width=450 src="/assets/images/yani_stylegan2_hirise.gif" class="img-fluid" alt="Yani's" />  
 *Training ProjectedGAN+StyleGAN2 with HiRISE dataset*  
 by Yani, 11th grader, from Henderson, NV
+<br>
+<br>
+<img width=250 src="/assets/images/skylar_p_stylegan2_hiriseb.gif" class="img-fluid" alt="Skylar's" />  
+*Training ProjectedGAN+StyleGAN2 with HiRISE dataset*  
+by Skylar, 8th grader, from Henderson, NV
