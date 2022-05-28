@@ -15,41 +15,26 @@ by our students during March-May 2022.
 by Alice, 9th grader, from San Jose, CA
 <br>
 <br>
-
-<img width=450 src="/assets/images/kayla_hirise.gif" class="img-fluid" alt="Kayla's" />  
+{% include youtube.html id='bFysh--vheo' %} 
 *Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Kayla, 8th grader, from San Jose, CA
 <br>
 <br>
-
-<img width=250 src="/assets/images/skylar_hirise.gif" class="img-fluid" alt="Skylar's" />  
-*Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
-by Skylar, 8th grader, from Henderson, NV
-<br>
-<br>
-
-<img width=450 src="/assets/images/bowen_hirise.gif" class="img-fluid" alt="Bowen's" />  
+{% include youtube.html id='aw7yp35ghJ0' %}  
 *Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Bowen, 11th grader, from NYC
 <br>
 <br>
-
-<img width=450 src="/assets/images/kelly_hirise.gif" class="img-fluid" alt="Kelly's" />  
+{% include youtube.html id='yKNJVFR4N5U' %} 
 *Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Kelly, 8th grader, from San Jose, CA
 <br>
 <br>
-
-<img width=450 src="/assets/images/bowen_hirise2.gif" class="img-fluid" alt="Bowen's" />  
+{% include youtube.html id='jevMcr8KYOo' %}
 *Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Bowen, 11th grader, from NYC  
 <br>
 <br>
-<img width=450 src="/assets/images/yani_stylegan2_hirise.gif" class="img-fluid" alt="Yani's" />  
-*Training ProjectedGAN+StyleGAN2 with HiRISE dataset*  
-by Yani, 11th grader, from Henderson, NV
-<br>
-<br>
-<img width=250 src="/assets/images/skylar_p_stylegan2_hiriseb.gif" class="img-fluid" alt="Skylar's" />  
+{% include youtube.html id='o_6luB0aTkw' %}
 *Training ProjectedGAN+StyleGAN2 with HiRISE dataset*  
 by Skylar, 8th grader, from Henderson, NV
