@@ -7,12 +7,11 @@ tags: [ imagery, MinLab ]
 ---
 
 The following is an online video collection of My Favorite HiRISE Image by our students during March-May 2022.
-
-
-<br>
-<iframe width="450" height="300" src="https://www.youtube.com/embed/VaqOEfGICZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<iframe width="450" height="300" src="https://www.youtube.com/embed/YLYAz1EgGIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='g88SRHWgHjg' %}
+<br>
+<br>
+{% include youtube.html id='o8YPVnvy4gs' %}
 <br>
 <br>

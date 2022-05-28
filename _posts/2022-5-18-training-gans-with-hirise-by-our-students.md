@@ -9,9 +9,8 @@ tags: [ imagery, exhibits, AI, MinLab ]
 The following is an online exhibit of Training GANs with HiRISE  
 by our students during March-May 2022.
 
-
 <br>
-<img width=450 src="/assets/images/alice_hirise.gif" class="img-fluid" alt="Alice's" />  
+{% include youtube.html id='cWjyStTtFN8' %}
 *Training ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Alice, 9th grader, from San Jose, CA
 <br>
