@@ -38,3 +38,8 @@ by Bowen, 11th grader, from NYC
 {% include youtube.html id='o_6luB0aTkw' %}
 *Training ProjectedGAN+StyleGAN2 with HiRISE dataset*  
 by Skylar, 8th grader, from Henderson, NV
+<br>
+<br>
+{% include youtube.html id='Pes4PdJRGKI' %}
+*Trainng ProjectedGAN+FastGAN_lite with HiRISE dataset*  
+by Paul, rising senior, from southern NV
