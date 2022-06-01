@@ -43,3 +43,8 @@ by Skylar, 8th grader, from Henderson, NV
 {% include youtube.html id='Pes4PdJRGKI' %}
 *Trainng ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Paul, rising senior, from southern NV
+<br>
+<br>
+{% include youtube.html id='u2M3p5IGmCQ' %}
+*Trainng ProjectedGAN+FastGAN_lite with HiRISE dataset*  
+by Nevin, rising senior, from southern NV
