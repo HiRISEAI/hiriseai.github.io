@@ -48,3 +48,8 @@ by Paul, rising senior, from southern NV
 {% include youtube.html id='u2M3p5IGmCQ' %}
 *Trainng ProjectedGAN+FastGAN_lite with HiRISE dataset*  
 by Nevin, rising senior, from southern NV
+<br>
+<br>
+{% include youtube.html id='D_zBL2qYamU' %}
+*Trainng ProjectedGAN+FastGAN_lite with HiRISE dataset*  
+by Troy, rising senior, from southern NV
