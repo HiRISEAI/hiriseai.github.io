@@ -35,12 +35,6 @@ by our students during March-May 2022.
         <br>
     </div>
     <div class="col-md-6">
-        {% include youtube.html id='aw7yp35ghJ0' %}  
-        <p>Training ProjectedGAN+FastGAN_lite with HiRISE dataset</p>
-        <p>Bowen, 11th grader, from NYC</p>
-        <br>
-    </div>
-    <div class="col-md-6">
         {% include youtube.html id='yKNJVFR4N5U' %} 
         <p>Training ProjectedGAN+FastGAN_lite with HiRISE dataset</p>  
         <p>Kelly, 8th grader, from San Jose, CA</p>
