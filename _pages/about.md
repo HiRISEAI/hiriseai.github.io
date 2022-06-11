@@ -39,84 +39,19 @@ This website is written in Markdown in order to honor a noted contributor to Mar
 *As of February 2022*  
 
 This HiRISEAI Project Team gratefully acknowledges the following coorporations and government agencies for their grants and gifts which support exhibits and programs that inspire innovators locally and globally:
-
-<div class="row">
-  <div class="col-md-2" markdown="1">
-   <img src="/assets/images/nasa.png" class="img-fluid" alt="NASA" />
-  </div>
-  <div class="col-md-10" markdown="1">
-  <p>National Aeronautics and Space Administration</p>
-  </div>
-  <div class="col-md-2" markdown="1">
-   <img src="/assets/images/aws.png" class="img-fluid" alt="AWS" />
-  </div>
-  <div class="col-md-10" markdown="1">
-  <p>AWS</p>
-  </div>
-  <div class="col-md-2" markdown="1">
-   <img src="/assets/images/azure.png" class="img-fluid" alt="Azure" />
-  </div>
-  <div class="col-md-10" markdown="1">
-  <p>Microsoft Azure</p>
-  </div>
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/google.png" class="img-fluid" alt="Google" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/slack.png" class="img-fluid" alt="slack" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/lvccld.png" class="img-fluid" alt="LVCCLD" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-</div>
-
+- National Aeronautics and Space Administration
+- AWS
+- Microsoft Azure
+- Google
+- Slack
+- Las Vegas-Clark County Library District
 
 We are also grateful for the following individuals, universities and other institutions who have been supporting us:
-
-<div class="row">
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/si.png" class="img-fluid" alt="SI" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  &nbsp;
-
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/otago.jpg" class="img-fluid" alt="Otago Museum" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  &nbsp;
-
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/hughes.png" class="img-fluid" alt="College of Engineering UNLV" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  &nbsp;
-
-  <div class="col-md-4" markdown="1">
-   <img src="/assets/images/geoscience.png" style="background: black;" class="img-fluid" alt="Department of Geoscience UNLV" />
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p></p>
-  </div>
-  &nbsp;
-
-</div>
-
+- Smithsonian Travelling Museum
+- Smithsonian Learning Lab
+- Otago Museum
+- UNLV Department of Geoscience
+- UNLV Howard R. Hughes College of Engineering
 
 - Shana L. Harrington, Youth Services Manager, Library District Administrative Offices, LVCCLD
 - Darren Johnson, Gallery Services Manager, Libary District Administrative Offices, LVCCLD
@@ -141,6 +76,8 @@ We are also grateful for the following individuals, universities and other insti
 - Bayard Mason, Associate Solutions Architect, Amazon Web Services
 - Alli Gallo, Account Executive, Amazon Web Services
 
+**Our proposal**:  
+[Engaging Youth in NASA Space Science Imaging](https://drive.google.com/file/d/1BCSKP2aAC4hLdAXo8XKnkTyfEacARTvv/view?usp=sharing){:target="_blank"}
 
 
 
