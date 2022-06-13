@@ -32,8 +32,17 @@ by our students in June 2022.
     <div class="col-md-4">
         <div><img src="/assets/images/output_collage_brad_pitt.jpg" class="img-fluid" alt="Brad Pitt" /></div>
     </div>
-    
-    
+    <div class="col-md-4">
+        <div><img src="/assets/images/style_a.png" class="img-fluid" alt="style" /></div>
+        <p>Style Transfer with HiRISE by Alice, rising 10th grader, from San Jose, CA</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/content_a.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/output_a.png" class="img-fluid" alt="Output" /></div>
+    </div>
 </div>
   
     
