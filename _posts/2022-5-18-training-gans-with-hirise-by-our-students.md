@@ -12,67 +12,56 @@ by our students during March-May 2022.
 <div class="row">
     <div class="col-md-6">
         {% include youtube.html id='VoWkvzi_Bk4' %}
-        <p>Training StyleGAN-XL with the HiRISE dataset</p>
-        <p>Skylar, 8th grader, from southern NV</p>
+        <p>Training StyleGAN-XL with the HiRISE dataset by Skylar, 8th grader, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='cWjyStTtFN8' %}
-        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>  
-        <p>Alice, 9th grader, from San Jose, CA</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Alice, 9th grader, from San Jose, CA</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='bFysh--vheo' %} 
-        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>
-        <p>Kayla, 8th grader, from San Jose, CA</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Kayla, 8th grader, from San Jose, CA</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='aw7yp35ghJ0' %}  
-        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>
-        <p>Bowen, 11th grader, from NYC</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Bowen, 11th grader, from NYC</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='yKNJVFR4N5U' %} 
-        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>  
-        <p>Kelly, 8th grader, from San Jose, CA</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Kelly, 8th grader, from San Jose, CA</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='jevMcr8KYOo' %}
-        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset</p> 
-        <p>Bowen, 11th grader, from NYC</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Bowen, 11th grader, from NYC</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='o_6luB0aTkw' %}
-        <p>Training ProjectedGAN+StyleGAN2 with the HiRISE dataset</p> 
-        <p>Skylar, 8th grader, from Henderson, NV</p>
+        <p>Training ProjectedGAN+StyleGAN2 with the HiRISE dataset by Skylar, 8th grader, from Henderson, NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='Pes4PdJRGKI' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>
-        <p>Paul, rising senior, from southern NV</p>
+        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Paul, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='u2M3p5IGmCQ' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>
-        <p>Nevin, rising senior, from southern NV</p>
+        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Nevin, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='D_zBL2qYamU' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset</p>  
-        <p>Troy, rising senior, from southern NV</p>
+        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Troy, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='D_zBL2qYamU' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset</p> 
-        <p>Emmett, rising freshman in college, from southern NV</p>
+        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Emmett, rising freshman in college, from southern NV</p>
     </div>
 </div>
