@@ -131,6 +131,28 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Nevin, rising senior, from southern NV</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/bowen_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/bowen_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/bowen_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Bowen, rising senior, from NYC</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/emmett_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/emmett_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/emmett_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Emmett, rising freshman in college, from southern NV</p>
+        <br>
+    </div>
 </div>
   
     
