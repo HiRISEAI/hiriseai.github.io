@@ -120,6 +120,17 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Kayla, rising 9th grader, from San Jose, CA</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/nevin_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/nevin_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/nevin_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Nevin, rising senior, from southern NV</p>
+        <br>
+    </div>
 </div>
   
     
