@@ -76,6 +76,39 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Skylar, rising 9th grader, from southern NV</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_style_bunny.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_content_bunny.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_output_bunny.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Kelly, rising 9th grader, from San Jose, CA</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_style_hirise.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_content_bunny_hirise.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_output_bunny_hirise.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Kelly, rising 9th grader, from San Jose, CA</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kayla_style_hirise_wolf.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kayla_content_wolf.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kayla_output_hirise_wolf.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Kayla, rising 9th grader, from San Jose, CA</p>
+        <br>
+    </div>
 </div>
   
     
