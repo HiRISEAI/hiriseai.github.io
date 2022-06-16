@@ -153,6 +153,50 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Alice, rising 10th grader, from San Jose, CA</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/paul_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/paul_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/paul_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Paul, rising senior, from southern NV</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/n_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/n_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/n_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Nevin, rising senior, from southern NV</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/troy_style.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/troy_content.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/troy_output.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Troy, rising senior, from southern NV</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_style_manifold.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_content_bunny_carrot.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/kelly_output_bunny_manifold.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Kelly, rising 9th grader, from San Jose, CA</p>
+        <br>
+    </div>
 </div>
   
     
