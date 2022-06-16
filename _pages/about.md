@@ -20,6 +20,14 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Yu Tao
 - Emmett Seto
 
+**Out Student Leadership Team**:  
+- Skylar Villasenor
+- Alice Zou
+- Kelly Xu
+- Kayla Xu
+- Troy Harris
+- Nevin Jiang
+- Paul Kim
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
@@ -61,7 +69,10 @@ We are also grateful for the following individuals, universities and other insti
 - [Dr. Daisuke Ikeda, Associate Professor in Intelligence Science, Department of Informatics, Kyushu University](https://hyoka.ofc.kyushu-u.ac.jp/search/details/K000021/english.html){:target="_blank"}
 - [Dr. Pengyu Hong, Professor of Computer Science, Brandeis University](https://www.cs.brandeis.edu/~hong/){:target="_blank"}  
 - [Dr. Bingchen Liu, First Author of "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis"](https://arxiv.org/abs/2101.04775){:target="_blank"}  
-- [Dejia Xu, AI researcher on Deep Learning, Computer Vision, Computational Photography and Implicit Neural Representation](https://ir1d.github.io/){:target="_blank"}
+- [Dejia Xu, AI researcher on Deep Learning, Computer Vision, Computational Photography and Implicit Neural Representation](https://ir1d.github.io/){:target="_blank"}  
+- [Luke Melas-Kyriazi, Researcher in Machine Learning and Computer Vision](https://lukemelas.github.io/){:target="_blank"}  
+- [Fred Huffer, Professor of Statistics at FSU](https://ani.stat.fsu.edu/~huffer/){:target="_blank"}
+
 
 - [Yu Tao, Research Associate, Department of Space & Climate Physics, University College London](https://www.ucl.ac.uk/planetary-sciences/people/ytaox71){:target="_blank"}
 - [Dr. Susan Conway, CNRS Research Scientist](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=643&lang=en){:target="_blank"}  
