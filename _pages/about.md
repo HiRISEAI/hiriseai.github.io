@@ -18,7 +18,6 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Dr. Helen Zhang
 - Dr. Henry Sun
 - Yu Tao
-- Emmett Seto
 
 **Out Student Leadership Team**:  
 - Skylar Villasenor
