@@ -219,6 +219,17 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Anonymous</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/s.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/goodfellow.png" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/goodfellow_s.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Anonymous</p>
+        <br>
+    </div>
 </div>
   
     
