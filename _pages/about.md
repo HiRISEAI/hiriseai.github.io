@@ -25,9 +25,7 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Alice Zou
 - Kelly Xu
 - Kayla Xu
-- Troy Harris
 - Nevin Jiang
-- Paul Kim
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
