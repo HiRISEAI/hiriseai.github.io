@@ -197,6 +197,28 @@ by our students in June 2022.
         <p>Style Transfer with HiRISE by Kelly, rising 9th grader, from San Jose, CA</p>
         <br>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/style_a.jpg" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/content_e.jpg" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/efros.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Anonymous</p>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/style_reals.png" class="img-fluid" alt="style" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/content_e.jpg" class="img-fluid" alt="content" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/efros_h.png" class="img-fluid" alt="Output" /></div>
+        <p>Style Transfer with HiRISE by Anonymous</p>
+        <br>
+    </div>
 </div>
   
     
