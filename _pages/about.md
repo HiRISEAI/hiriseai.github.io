@@ -18,6 +18,7 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Dr. Helen Zhang
 - Dr. Henry Sun
 - Yu Tao
+- Emmett Seto  
 
 **Out Student Leadership Team**:  
 - Skylar Villasenor
@@ -25,6 +26,8 @@ HiRISEAI is a NASA-funded STEM project focused on the HiRISE images of Martian l
 - Kelly Xu
 - Kayla Xu
 - Nevin Jiang
+- Troy Harris
+- Paul Kim
 
 We lost two colleagues during the Covid-19 pandemic: Peter Faught (Experimental Tesing/Prototype Enigneer) and Shane Bevel (Director of Communications). We wouldn't have been able to get funded without Peter and Shane. They will always be in our heart.  
 
