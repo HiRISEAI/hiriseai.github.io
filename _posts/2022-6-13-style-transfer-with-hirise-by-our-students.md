@@ -205,7 +205,7 @@ by our students in June 2022.
     </div>
     <div class="col-md-4">
         <div><img src="/assets/images/efros.png" class="img-fluid" alt="Output" /></div>
-        <p>Style Transfer with HiRISE by Anonymous</p>
+        <p>Style Transfer with HiRISE by Cynthia, Special student, College of Southern NV</p>
         <br>
     </div>
     <div class="col-md-4">
@@ -216,7 +216,7 @@ by our students in June 2022.
     </div>
     <div class="col-md-4">
         <div><img src="/assets/images/efros_h.png" class="img-fluid" alt="Output" /></div>
-        <p>Style Transfer with HiRISE by Anonymous</p>
+        <p>Style Transfer with HiRISE by Cynthia, Special student, College of Southern NV</p>
         <br>
     </div>
     <div class="col-md-4">
@@ -227,7 +227,7 @@ by our students in June 2022.
     </div>
     <div class="col-md-4">
         <div><img src="/assets/images/goodfellow_s.png" class="img-fluid" alt="Output" /></div>
-        <p>Style Transfer with HiRISE by Anonymous</p>
+        <p>Style Transfer with HiRISE by Cynthia, Special student, College of Southern NV</p>
         <br>
     </div>
 </div>
