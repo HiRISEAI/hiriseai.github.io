@@ -238,7 +238,7 @@ by our students in June 2022.
     </div>
     <div class="col-md-4">
         <div><img src="/assets/images/skylar_output_goodfellow_alien.png" class="img-fluid" alt="Output" /></div>
-        <p>Style Transfer with HiRISE by Skylar, rising 9th grader,from Southern NV</p>
+        <p>Style Transfer with HiRISE by Skylar, rising 9th grader, from Southern NV</p>
         <br>
     </div>
     <div class="col-md-4">
