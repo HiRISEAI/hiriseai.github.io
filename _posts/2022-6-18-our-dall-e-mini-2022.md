@@ -16,6 +16,9 @@ by Kelly, rising 9th grader, San Jose, CA
 A dragon with dark red scales next to a volcano  
 by Kelly, rising 9th grader, San Jose, CA  
 <br>
-
+<div><img src="/assets/images/skylar_dallemini_mars_skydiving.png" class="img-fluid" alt="style" /></div>  
+A painting of a man skydiving on Mars    
+by Skylar, rising 9th grader, southern NV    
+<br>
 
 
