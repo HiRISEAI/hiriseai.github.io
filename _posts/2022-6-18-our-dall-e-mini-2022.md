@@ -14,11 +14,29 @@ by Kelly, rising 9th grader, San Jose, CA
 <br>
 <div><img src="/assets/images/kelly_dallemini_volcano_dragon.png" class="img-fluid" alt="style" /></div>  
 A dragon with dark red scales next to a volcano  
-by Kelly, rising 9th grader, San Jose, CA  
+by Kayla, rising 9th grader, San Jose, CA  
 <br>
 <div><img src="/assets/images/skylar_dallemini_mars_skydiving.png" class="img-fluid" alt="style" /></div>  
 A painting of a man skydiving on Mars    
 by Skylar, rising 9th grader, southern NV    
 <br>
-
-
+<div><img src="/assets/images/alice_dallemini_mars_walking.png" class="img-fluid" alt="style" /></div>  
+A painting of an Asian man walking on the mountains of Olympus Mons of Mars    
+by Alice, rising 10th grader, San Jose, CA    
+<br>
+<div><img src="/assets/images/alice_dallemini_mars_sunset_bunny.png" class="img-fluid" alt="style" /></div>  
+A pink bunny is looking at the sunrise n Mars      
+by Alice, rising 10th grader, San Jose, CA    
+<br>
+<div><img src="/assets/images/alice_dallemini_mars_southpole_bunny.png" class="img-fluid" alt="style" /></div>  
+A painting of a pink bunny sitting on the Monet's sand dunes on Mars in the winter at the south pole        
+by Alice, rising 10th grader, San Jose, CA    
+<br>
+<div><img src="/assets/images/cynthia_dallemini_mars_ridingahorse.png" class="img-fluid" alt="style" /></div>  
+A painting of a woman riding a horse on the slope streaks on south pole of Mars          
+by Cynthia, special student, College of southern NV      
+<br>
+<div><img src="/assets/images/troy_dallemini_mars_life.png" class="img-fluid" alt="style" /></div>  
+A painting of life on Mars          
+by Troy, rising senior, from southern NV      
+<br>
