@@ -8,6 +8,20 @@ tags: [ imagery, exhibits, AI, MinLab ]
 
 The following is an online exhibit of Our Dall-E Mini 2022.
 <br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/dallemini_walle_swan_1.png" class="img-fluid" alt=" " /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/dallemini_walle_swan_2.png" class="img-fluid" alt=" "></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/dallemini_walle_swan_3.png" class="img-fluid" alt=" " /></div>  
+    </div>
+    <p>The Wall-E and a swan landing on Mars in the Martian sunset  
+    by Cynthia, special student, College of Southern NV</p>
+</div>
+<br>
 <div><img src="/assets/images/kelly_dallemini_moon_bunny.png" class="img-fluid" alt="style" /></div>  
 A bunny eating corn while sitting on a cat in a moon's crater  
 by Kelly, rising 9th grader, San Jose, CA  
