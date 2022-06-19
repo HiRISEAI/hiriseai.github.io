@@ -2,7 +2,7 @@
 layout: post
 title:  "Our Dall-E Mini 2022"
 date: 2022-6-13
-image: assets/images/kelly_dallemini_moon_bunny_thumb.png
+image: assets/images/skylar_dallemini_mars_skydiving_thumb.png
 tags: [ imagery, exhibits, AI, MinLab ]
 ---
 
