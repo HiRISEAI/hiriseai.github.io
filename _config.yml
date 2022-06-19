@@ -30,7 +30,7 @@ plugins:
 
 
 
-paginate: 16
+paginate: 24
 paginate_path: '/page:num/'
 
 
