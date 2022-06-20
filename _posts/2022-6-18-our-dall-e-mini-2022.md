@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Our Dall-E Mini 2022"
+title:  "Our DALL-E Mini 2022"
 date: 2022-6-18
 image: assets/images/skylar_dallemini_mars_skydiving_thumb.png
 tags: [ imagery, exhibits, AI, MinLab ]
 ---
 
-The following is an online exhibit of Our Dall-E Mini 2022.
+The following is an online exhibit of Our DALL-E Mini 2022.
 <br>
 <div class="row">
     <div class="col-md-4">
@@ -53,4 +53,8 @@ by Cynthia, special student, College of southern NV
 <div><img src="/assets/images/troy_dallemini_mars_life.png" class="img-fluid" alt="style" /></div>  
 A painting of life on Mars          
 by Troy, rising senior, from southern NV      
+<br>
+<div><img src="/assets/images/bowen_dallemini_mars_penguins.png" class="img-fluid" alt="style" /></div>  
+Penguins Dancing on Mars          
+by Bowen, rising senior, from NYC       
 <br>
