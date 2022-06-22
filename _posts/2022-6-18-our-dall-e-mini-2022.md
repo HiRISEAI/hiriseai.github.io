@@ -58,3 +58,7 @@ by Troy, rising senior, from southern NV
 Penguins Dancing on Mars          
 by Bowen, rising senior, from NYC       
 <br>
+<div><img src="/assets/images/bowen_dallemini_mars_butterflies.png" class="img-fluid" alt="style" /></div>  
+Butterflies on Mars          
+by Bowen, rising senior, from NYC       
+<br>
