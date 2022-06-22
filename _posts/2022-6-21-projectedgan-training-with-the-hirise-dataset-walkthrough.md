@@ -71,7 +71,7 @@ Then, choose your Gmail account and click “Allow”.
 
 11.	While the seventh cell is running, a “runs” folder will automatically be generated in “My Drive”. All the fake images and models will be saved in the “runs” folder.
 
-12.	If you want to resume your code, delete the `#` before `--resume=/content/...`  and repeat steps 6 through 10.  
+12.	If you need to resume the training, delete the `#` before `--resume=/content/...`  and repeat steps 6 through 10.  
 
 13.	Wait until the FID is below 10. 
 
