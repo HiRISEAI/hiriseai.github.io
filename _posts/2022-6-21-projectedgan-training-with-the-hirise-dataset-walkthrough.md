@@ -73,6 +73,6 @@ Then, choose your Gmail account and click “Allow”.
 
 12.	If you want to resume your code, delete the `#` before `--resume=/content/...`  and repeat steps 6 through 10.  
 
-13.	Wait until the FID is under 10. You can see this information after each evaluation which occurs around every 60 minutes. Once it is under 10 (takes approximately 10 hours), end the training and begin to make an animation video.
+13.	Wait until the FID is below 10. 
 
 
