@@ -12,7 +12,7 @@ June 2022
 
 <div><img src="/assets/images/Mars-MRO-orbiter-fresh-crater-sirenum-fossae.jpg" class="img-fluid" alt=" "></div>
 <br>    
-This HiRISE+AI project was funded by NASA (Grant Number: 80NSSC22K0440)  
+This HiRISE+AI project is funded by NASA (Grant Number: 80NSSC22K0440)  
 Contact Us: pingwang@nova77.org  
 
 **What you need**:
