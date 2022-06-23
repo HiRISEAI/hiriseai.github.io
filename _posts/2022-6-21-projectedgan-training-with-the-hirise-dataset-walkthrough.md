@@ -14,7 +14,7 @@ June 2022
 <br>    
 This HiRISE+AI project is funded by NASA (Grant Number: 80NSSC22K0440).  
   
-The purpose of this ProjectedGAN Walkthrough is to help those who really want to have a feel of AI, particularly GANs, to start their first GAN training project without having to pay $250 per hour.
+The purpose of this ProjectedGAN Walkthrough is to help those who really want to have a feel of AI, particularly GANs, and to start their first GAN training project without having to pay $250 per hour.
 
 **What you need**:
 1.	Your Gmail account  
