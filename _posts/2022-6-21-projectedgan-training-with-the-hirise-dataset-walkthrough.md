@@ -12,8 +12,9 @@ June 2022
 
 <div><img src="/assets/images/Mars-MRO-orbiter-fresh-crater-sirenum-fossae.jpg" class="img-fluid" alt=" "></div>
 <br>    
-This HiRISE+AI project is funded by NASA (Grant Number: 80NSSC22K0440)  
-Contact Us: pingwang@nova77.org  
+This HiRISE+AI project is funded by NASA (Grant Number: 80NSSC22K0440).  
+  
+The purpose of this ProjectedGAN Walkthrough is to help those who really want to have a feel of AI, particularly GANs, to start their first GAN training project without having to pay $250 per hour.
 
 **What you need**:
 1.	Your Gmail account  
