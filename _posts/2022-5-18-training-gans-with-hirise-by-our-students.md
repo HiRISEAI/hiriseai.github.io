@@ -64,4 +64,8 @@ by our students during March-May 2022.
         {% include youtube.html id='D_zBL2qYamU' %}
         <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Emmett, rising freshman in college, from southern NV</p>
     </div>
+    <div class="col-md-6">
+        {% include youtube.html id='DJJImIUuHks' %}
+        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Xiaozhou, rising senior, from NYC</p>
+    </div>
 </div>
