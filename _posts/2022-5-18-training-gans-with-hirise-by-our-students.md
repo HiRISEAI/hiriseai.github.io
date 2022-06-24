@@ -47,25 +47,25 @@ by our students during March-May 2022.
     </div>
     <div class="col-md-6">
         {% include youtube.html id='Pes4PdJRGKI' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Paul, rising senior, from southern NV</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Paul, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='u2M3p5IGmCQ' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Nevin, rising senior, from southern NV</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Nevin, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='D_zBL2qYamU' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Troy, rising senior, from southern NV</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Troy, rising senior, from southern NV</p>
         <br>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='D_zBL2qYamU' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Emmett, rising freshman in college, from southern NV</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Emmett, rising freshman in college, from southern NV</p>
     </div>
     <div class="col-md-6">
         {% include youtube.html id='DJJImIUuHks' %}
-        <p>Trainng ProjectedGAN+FastGAN_lite with the HiRISE dataset by Xiaozhou, rising senior, from NYC</p>
+        <p>Training ProjectedGAN+FastGAN_lite with the HiRISE dataset by Xiaozhou, rising senior, from NYC</p>
     </div>
 </div>
