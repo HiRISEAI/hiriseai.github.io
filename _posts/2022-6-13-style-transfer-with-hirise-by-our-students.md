@@ -132,12 +132,6 @@ by our students in June 2022.
         <br>
     </div>
     <div class="col-md-4">
-        <div><img src="/assets/images/emmett_style.png" class="img-fluid" alt="style" /></div>
-    </div>
-    <div class="col-md-4">
-        <div><img src="/assets/images/emmett_content.png" class="img-fluid" alt="content" /></div>
-    </div>
-    <div class="col-md-4">
         <div><img src="/assets/images/alice_style.png" class="img-fluid" alt="style" /></div>
     </div>
     <div class="col-md-4">
